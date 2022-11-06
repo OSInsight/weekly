@@ -1,0 +1,119 @@
+### 技术热闻
+**Working together on Interop 2022**
+[https://webkit.org/blog/12288/working-together-on-interop-2022/](https://webkit.org/blog/12288/working-together-on-interop-2022/)
+In 2022, Apple, Bocoup, Google, Igalia, Microsoft, and Mozilla have come together to commit to improve interoperability in 15 key areas that will have the most impact on web developer experience, in a project called Interop 2022.
+
+**A Web Renaissance**
+[https://anildash.com/2022/04/13/a-web-renaissance/](https://anildash.com/2022/04/13/a-web-renaissance/)
+Thanks to the mistrust of big tech, the creation of better tools for developers, and the weird and wonderful creativity of ordinary people, we’re seeing an incredibly unlikely comeback: the web is thriving again.
+
+**2022 年值得关注的 DevOps 趋势和最佳实践**
+[https://mp.weixin.qq.com/s/tg5vAzdwMgknUwWQboGsAQ](https://mp.weixin.qq.com/s/tg5vAzdwMgknUwWQboGsAQ)
+我们已经列出了 2022 年值得关注的 DevOps 趋势。最后的结论是，DevOps 已经被证实是一种新兴的潮流，也是 IT 产业的发展方向。人们可以从有效和高效的 DevOps 解决方案中获益良多。
+
+**开源｜优酷动态模板研发体系为分发提效30%**
+[https://mp.weixin.qq.com/s/SlbPNXU417TnsmA6rlsAhQ](https://mp.weixin.qq.com/s/SlbPNXU417TnsmA6rlsAhQ)
+优酷技术团队于2019年底开始探索跨端动态化研发提效解决方案，经过2年多时间的努力，目前跨端动态化能力已经在优酷各业务场景落地，帮助研发团队在分发业务上实现提效30%左右。
+
+**WebAssembly 2.0 首个公开工作草案**
+[https://mp.weixin.qq.com/s/WIYV2AJ9MdhQdX7f4vgIyw](https://mp.weixin.qq.com/s/WIYV2AJ9MdhQdX7f4vgIyw)
+W3C WebAssembly 工作组发布以下三份规范的首个公开工作草案
+
+### 大前端
+#### 教程推荐
+**前端工程化三十八讲**
+[https://q.shanyue.tech/engineering/](https://q.shanyue.tech/engineering/)
+
+#### React
+**React 18 — A Dive Into the Newest Version of React**
+[https://www.commoninja.com/blog/react-18-news-and-features](https://www.commoninja.com/blog/react-18-news-and-features)
+React 18 has recently rolled out and it offers new and interesting features like automatic batching, concurrency, transitions, new hooks, the ability to stop automatic batching with flushSync() and suspense API.
+
+**The Story of Concurrent React**
+[https://www.youtube.com/watch?v=NZoRlVi3MjQ](https://www.youtube.com/watch?v=NZoRlVi3MjQ)
+2,161 days. That's how long the React team has been working on this release. This video tells that story.
+
+#### Bundler
+**Building a JavaScript Bundler**
+[https://cpojer.net/posts/building-a-javascript-bundler](https://cpojer.net/posts/building-a-javascript-bundler)
+Jest’s packages make up an entire ecosystem of packages useful for building any kind of JavaScript tooling. In this article we are going to leverage some of Jest’s packages to learn how a JavaScript bundler works. In the end, you’ll have a toy bundler, and you’ll understand the fundamental concepts behind bundling JavaScript code.
+
+**How to Replace Webpack in Create React App With esbuild**
+[https://devtails.xyz/how-to-replace-webpack-in-create-react-app-with-esbuild](https://devtails.xyz/how-to-replace-webpack-in-create-react-app-with-esbuild)
+This post demonstrates how to replace the webpack bundler installed by create-react-app with the much faster esbuild bundler.
+
+**ESBuild & SWC浅谈: 新一代构建工具**
+[https://mp.weixin.qq.com/s/9VaUq9FOm2_nKNCGaH-7rw](https://mp.weixin.qq.com/s/9VaUq9FOm2_nKNCGaH-7rw)
+ESBuild/swc是用编译型语言编写的新一代前端工具, 对JS编写的构建工具有系统级的速度优势，目前这两个工具还不能完全替代Webpack等主流工具这些年发展出的庞大生态，当已有的基础设施稳定并且替换成本较大时, 可以尝试渐进式的利用新工具(loader)或者Vite这种基于ESBuild二次封装的构建工具
+
+#### Javascript
+**Third Age of JavaScript - Three Years In**
+[https://www.swyx.io/third-age-2022](https://www.swyx.io/third-age-2022)
+If the First Age was about building out a language, and the Second Age was about users exploring and expanding the language, the Third Age is about clearing away legacy assumptions and collapsing layers of tooling. 另附 Slider [https://docs.google.com/presentation/d/1O6m6J3UR49Cw91xgD9_Zz6SactPglGYqWlDHLRCz_-Q/edit](https://docs.google.com/presentation/d/1O6m6J3UR49Cw91xgD9_Zz6SactPglGYqWlDHLRCz_-Q/edit)
+
+**Faster initialization of instances with new class features**
+[https://v8.dev/blog/faster-class-features](https://v8.dev/blog/faster-class-features)
+This post covers how the first issue was fixed: The initialization of class fields and private methods was much slower than the assignment of ordinary properties.
+
+**深入 JS new Function 语法**
+[https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
+new Function 语法有个特别厉害的特性，使其成为 JavaScript 这门语言中无可替代的重要角色：函数体的数据格式是字符串。
+
+**Four Eras of JavaScript Frameworks**
+[https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+I wanted to do a retrospective, looking back at the last few decades of JavaScript development and at how far we’ve come. I think we can roughly divide it into four main eras
+
+#### CSS
+**Deep Dive into Text Wrapping and Word Breaking**
+[https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking/](https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking/)
+CSS gives us a lot of tools to make sure our text flows the way we want it to, but we’ll also cover some tricks using HTML and special characters.
+
+**Loaders**
+[https://uiball.com/loaders/](https://uiball.com/loaders/)
+Free loaders & spinners for your next project. Built with HTML, CSS and a soupçon of SVG. Available for React and copypasta.
+
+#### Security
+**Today’s most common security vulnerabilities explained**
+[https://github.blog/2022-05-06-todays-most-common-security-vulnerabilities-explained/](https://github.blog/2022-05-06-todays-most-common-security-vulnerabilities-explained/)
+We're taking a look at some of the most common security vulnerabilities and detailing how developers can best protect themselves.
+
+#### Chrome 插件
+**Chrome插件：云音乐听歌识曲**
+[https://mp.weixin.qq.com/s/ACXVM0KiwicR8d53JF_vhQ](https://mp.weixin.qq.com/s/ACXVM0KiwicR8d53JF_vhQ)
+大致描述了基于 WebAssembly 与 MV3实现听歌识曲插件的大致流程。插件虽然灵活易用，但是 Google 也意识到了插件带来的一些安全、隐私等问题，从而进行了一次大规模的迁移。MV3 协议更加具备隐私和安全性，但也限制了不少功能的实现，在2023年之后会有大批量的插件无法继续使用。
+
+#### 小程序
+**淘宝小程序体验优化：数据分析和优化实践**
+[https://mp.weixin.qq.com/s/eIeOncrNd_h8-7E8fg4bKg](https://mp.weixin.qq.com/s/eIeOncrNd_h8-7E8fg4bKg)
+淘宝小程序已经走过若干个双十一，淘宝开放业务有序铺开。体验优化是个老生常谈的话题，如何让小程序跑得又稳又快，成了我们最大的挑战之一。
+
+**md**
+[https://github.com/doocs/md](https://github.com/doocs/md)
+WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+
+### 设计
+**用白话讲用户体验设计 Part1.**
+[https://mp.weixin.qq.com/s/fVYyCrmpRyTbuWvFlz7bTQ](https://mp.weixin.qq.com/s/fVYyCrmpRyTbuWvFlz7bTQ)
+今天再来继续一个比较现实的话题 —— 用户体验是什么？
+
+**CDC AI-Design 架构演进**
+[https://mp.weixin.qq.com/s/eHCNNEn42dR7zi2KB9_jrg](https://mp.weixin.qq.com/s/eHCNNEn42dR7zi2KB9_jrg)
+本文将以 AI-Design 项目版本迭代为主线，简述 AI-Design 的架构演进，结合项目实际发展路径，讨论智能设计工具/产品的技术选型和架构设计。
+
+### 发现
+**patterns**
+[https://www.patterns.dev/](https://www.patterns.dev/)
+Improve how you webapps. Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.
+
+**View Source**
+[https://neatnik.net/view-source/](https://neatnik.net/view-source/)
+View the source of any web page on the internet.
+
+### 更多
+**科技爱好者周刊（第 205 期）：互联网风口过去了吗？**
+[http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)
+总体上来看，互联网的爆发期确实是过去了。但是，也不能因此断定就没有风口了。因为互联网的范围太广泛，至少可以分成三个行业，各自情况非常不同。至于企业互联网和产业互联网，才刚刚起步，根本不存在用户饱和，非常看好，风口不仅没有过去，可能才刚刚起风。
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#crop=0&crop=0&crop=1&crop=1&height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14325&status=done&style=none&title=&width=746)
+
+
+欢迎加入，一起共建「前端小报」

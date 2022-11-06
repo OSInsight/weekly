@@ -1,0 +1,136 @@
+### 技术热闻
+从成功到夺目: Google Play 2021 年度中国开发者最佳榜单
+[https://mp.weixin.qq.com/s/dL_B1D0bFjMayEZ8_CIAJQ](https://mp.weixin.qq.com/s/dL_B1D0bFjMayEZ8_CIAJQ)
+在今年的榜单中，共有来自 25 个中国大陆地区开发者团队的 33 款应用和游戏，在全球不同地区斩获 48 个年度最佳奖项。
+
+What is the metaverse?
+[https://interconnected.org/home/2021/12/02/metaverse](https://interconnected.org/home/2021/12/02/metaverse)
+So what is the product experience of the metaverse?
+
+Podcast 397: Is crypto the key to a democratizing the metaverse?
+[https://stackoverflow.blog/2021/12/03/podcast-397-is-crypto-the-key-to-a-democratizing-the-metaverse/](https://stackoverflow.blog/2021/12/03/podcast-397-is-crypto-the-key-to-a-democratizing-the-metaverse/)
+
+Wikimania 2021: Looking back, looking forward
+[https://diff.wikimedia.org/2021/12/02/wikimania-2021-looking-back-looking-forward/](https://diff.wikimedia.org/2021/12/02/wikimania-2021-looking-back-looking-forward/)
+Below are some of the top findings. You can read a summary of the evaluation below or the full report on wiki.
+
+Robotics Summit & Expo 2022 call for speakers
+[https://www.therobotreport.com/robotics-summit-expo-2022-call-for-speakers/](https://www.therobotreport.com/robotics-summit-expo-2022-call-for-speakers/)
+The Robotics Summit & Expo focuses on the technical issues involved with the design, development, manufacturing and delivery of commercial-class robotics systems.
+
+30 years of the website: securing the future of the web
+[https://www.fastly.com/blog/30-years-of-the-website-securing-the-future-of-the-web](https://www.fastly.com/blog/30-years-of-the-website-securing-the-future-of-the-web)
+To effectively create more secure and resilient online experiences, we must design, build, and execute applications with security top of mind, and consider how the lessons of the past 30 years inform how we think about the future of security. 
+
+Welcome, SyncSketch!
+[https://blog.unity.com/news/welcome-syncsketch](https://blog.unity.com/news/welcome-syncsketch)
+Unity has acquired SyncSketch, the creator of synchronized real-time collaboration tools that allow users across the world to work together from anywhere.
+
+### 大前端
+The Vite Ecosystem
+[https://patak.dev/vite/ecosystem.html](https://patak.dev/vite/ecosystem.html)
+One of the strongest points in Vite is the ecosystem around it.
+
+Free Practical Guide to Web Animation
+[https://tilda.education/en/web-animation-course](https://tilda.education/en/web-animation-course)
+The guide introduces web animation techniques with examples and tips on how to use them.
+
+美团外卖终端容器无关化研发框架
+[https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html](https://tech.meituan.com/2021/12/02/meituan-waimai-containerless-framework.html)
+最终我们的核心痛点围绕在了美团系·小程序和美团系·App矩阵上的同一个需求的多次开发运维上，为了解决研发人力瓶颈问题，我们需要一款“一次研发，多终端容器复用”的研发框架来提升研发效率。
+
+Building a server-driven foundation for mobile app development
+[https://engineeringblog.yelp.com/2021/11/building-a-server-driven-foundation-for-mobile-app-development.html](https://engineeringblog.yelp.com/2021/11/building-a-server-driven-foundation-for-mobile-app-development.html)
+In this blog post, we’ll cover the Biz Native Foundation (BNF), which provides a foundation for building, testing, deploying, and monitoring server-driven features in our Biz App.
+
+Async/await for existing iOS apps
+[https://www.artemnovichkov.com/blog/async-await-offline](https://www.artemnovichkov.com/blog/async-await-offline)
+Since then Apple team has released Xcode 13.2 beta with Swift 5.5, I've read a book about [modern concurrency model in Swift](https://www.raywenderlich.com/books/modern-concurrency-in-swift), and I guess it's a perfect time to update my examples with async/await!
+
+React.js 18: An overview of its new features and updates
+[https://dev.to/dhiwise/react-js-18-an-overview-of-its-new-features-and-updates-4nh1](https://dev.to/dhiwise/react-js-18-an-overview-of-its-new-features-and-updates-4nh1)
+React 18 is shifting from alpha to beta and has some exciting features and updates for the React.js development community.
+
+Button - why is simple not that simple?
+[https://ckeditor.com/blog/button-why-is-simple-not-that-simple/](https://ckeditor.com/blog/button-why-is-simple-not-that-simple/)
+Making a button is easy but making an accessible button is a totally different beast.
+
+如何在微前端中加载 Vite 应用？
+[https://mp.weixin.qq.com/s/veCOceuA5ISypibnJ735BQ](https://mp.weixin.qq.com/s/veCOceuA5ISypibnJ735BQ)
+随着 Vite 和 Snowpack 等基于 ES modules 的构建工具的产生，前端随即掀起了 ES modules 新一轮热潮。
+
+Web 性能优化：控制关键请求的优先级
+[https://mp.weixin.qq.com/s/P63LEMaXLMyWGYVdLiWxZw](https://mp.weixin.qq.com/s/P63LEMaXLMyWGYVdLiWxZw)
+
+元宇宙趋势下的前端，有哪些机会与挑战
+[https://mp.weixin.qq.com/s/z1ihlrUkjn5mBRkGzkIqRw](https://mp.weixin.qq.com/s/z1ihlrUkjn5mBRkGzkIqRw)
+
+### 行业资讯
+奥密克戎如何影响旅游业？
+[https://mp.weixin.qq.com/s/AM8rQeKVJAWaG5nikEXHvw](https://mp.weixin.qq.com/s/AM8rQeKVJAWaG5nikEXHvw)
+从德尔塔到奥密克戎，我们正在适应这个多变的时代。
+
+年末宴会营销，2021年酒店业的最后一战！
+[https://mp.weixin.qq.com/s/FhJvb3P_9f_wTse8Y4YzIQ](https://mp.weixin.qq.com/s/FhJvb3P_9f_wTse8Y4YzIQ)
+酒店一半的热闹，是年会、论坛“撑”起来的。在疫情常态化的大背景下，酒店宴会厅都有哪些新的营销思路？
+
+民宿跌倒，酒店也吃不饱
+[https://mp.weixin.qq.com/s/5P8TS0IT4bsQexQ_U9kRpg](https://mp.weixin.qq.com/s/5P8TS0IT4bsQexQ_U9kRpg)
+民宿行业的动荡时刻终于来临。不过，打碎业内人民宿梦的真的是民宿规范化吗？其实不是，早在规范化管理以前，民宿已然走在危机的边缘。
+
+新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？
+[https://mp.weixin.qq.com/s/pDdSHpEqXVsFx3yaiovkHQ](https://mp.weixin.qq.com/s/pDdSHpEqXVsFx3yaiovkHQ)
+在今年年初，由阿里前端委员会发起，在互动图形方向成立了虚拟角色小组，一起分享和研究虚拟角色领域的技术和应用。
+
+教育行业九大发展趋势
+[https://mp.weixin.qq.com/s/U8K1eXI_WwkDOGgqlkT51g](https://mp.weixin.qq.com/s/U8K1eXI_WwkDOGgqlkT51g)
+2020年，突如其来的疫情打破了传统教育方式，随着5G、AI等技术的发展，从线下转移到线上的混合式教学模式快速兴起，为教育行业带来全新的变革。
+
+### 产品
+产品经理该如何思考
+[https://mp.weixin.qq.com/s/Qfo0UsHY6LNbrMxTJ6FtbQ](https://mp.weixin.qq.com/s/Qfo0UsHY6LNbrMxTJ6FtbQ)
+产品经理最重要的能力叫做定义的能力，究其本质是一种对市场的洞察能力，然后衍生出一个定位的能力。
+
+深度思考产品：钉钉、企业微信和飞书
+[https://www.toutiao.com/i7036760771153379843](https://www.toutiao.com/i7036760771153379843)
+企业微信、钉钉和飞书发力点完全不同。企业微信很核心的是客户关系管理（CRM）、钉钉最核心的是协同OA、飞书核心的是办公协作。
+
+### 设计
+轻奢格调｜构建百度直播平台设计语言系统
+[https://mp.weixin.qq.com/s/Vm0U1q19ICGCsmWU-tKYrQ](https://mp.weixin.qq.com/s/Vm0U1q19ICGCsmWU-tKYrQ)
+从战略层重构业务的认知体系，再将品牌战略人格化，才能够在茫然期产生真正的笃定感，逐步拆解设计目标和构建符合业务气质的设计语言，达到最愉悦的体验。
+
+关于搜索引擎的优化方法
+[https://mp.weixin.qq.com/s/9hxMrTzsS7DnCboXYDDTUA](https://mp.weixin.qq.com/s/9hxMrTzsS7DnCboXYDDTUA)
+最近发现厂内许多 Web 站点还存在许多较初级的面向搜索引擎的问题，感觉过往的经验还有一点价值，做一些的分享。
+
+字体设计丨逆反差的知感悟
+[https://mp.weixin.qq.com/s/Fdq7LRTyq9MYiIO-QmbYQw](https://mp.weixin.qq.com/s/Fdq7LRTyq9MYiIO-QmbYQw)
+2021年至今「逆反差字体」这个原本偏小众的字体设计风格，从卷土重来到广泛应用，再次受到诸多设计师的追捧，一股新浪潮扑面而来。逆反差字体是一场字体设计的视觉革命。
+
+### 发现
+Renaming the default branch from master
+[https://github.com/github/renaming](https://github.com/github/renaming)
+Guidance for changing the default branch name for GitHub repositories
+
+Scaling the Practice of Architecture, Conversationally
+[https://martinfowler.com/articles/scaling-architecture-conversationally.html](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+This article describes another way to do architecture; as a series of conversations, driven by a decentralised and empowering decision-making technique, and supported by four learning and alignment mechanisms: Decision Records, Advisory Forum, Team-sourced Principles, and a Technology Radar
+
+How to use dig
+[https://jvns.ca/blog/2021/12/04/how-to-use-dig/](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
+I talked to a couple of friends recently who mentioned they wished they knew how to use dig to make DNS queries, so here’s a quick blog post about it.
+
+Introducing Unity Gaming Services
+[https://blog.unity.com/games/introducing-unity-gaming-services](https://blog.unity.com/games/introducing-unity-gaming-services)
+
+### 更多
+技术周报·现代 Web 研发体系中的低/零码搭建
+[https://mp.weixin.qq.com/s/Nxbm5rRMal1jNZsWjyI7AQ](https://mp.weixin.qq.com/s/Nxbm5rRMal1jNZsWjyI7AQ)
+
+WecTeam 周刊：第 107 期
+[https://mp.weixin.qq.com/s/pRQL_g2IgFya5xKjxhVMNA](https://mp.weixin.qq.com/s/pRQL_g2IgFya5xKjxhVMNA)
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#crop=0&crop=0&crop=1&crop=1&height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14325&status=done&style=none&title=&width=746)
+
+
+欢迎加入，一起共建「前端小报」

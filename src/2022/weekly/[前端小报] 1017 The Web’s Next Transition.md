@@ -1,0 +1,112 @@
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/85771/1665958190328-a9c534d0-5db7-4375-bb3c-a6922fa08712.png#clientId=ua8e14ba7-1e0b-4&crop=0&crop=0&crop=1&crop=1&errorMessage=unknown%20error&from=paste&height=283&id=uf0a0dd9c&margin=%5Bobject%20Object%5D&name=image.png&originHeight=566&originWidth=977&originalType=binary&ratio=1&rotation=0&showTitle=false&size=99913&status=error&style=none&taskId=ufb19b9a5-f56b-49ed-bf99-04527828340&title=&width=488.5)
+Source: [DevOps Is Dead. Embrace Platform Engineering](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/)
+### 技术热闻
+DevOps 已死，平台工程才是未来
+DevOps Is Dead. Embrace Platform Engineering
+[https://mp.weixin.qq.com/s/P_XdxR0trQA7huXurgI2SQ](https://mp.weixin.qq.com/s/P_XdxR0trQA7huXurgI2SQ)
+[https://thenewstack.io/devops-is-dead-embrace-platform-engineering/](https://thenewstack.io/devops-is-dead-embrace-platform-engineering/)
+[https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)
+Gartner added platform engineering to its Hype Cycle for Software Engineering 2022.
+
+The Web’s Next Transition
+[https://www.epicweb.dev/the-webs-next-transition](https://www.epicweb.dev/the-webs-next-transition)
+Progressively Enhanced Web Apps. The most popular architecture employed by web developers today is the Single Page App (SPA), but we are transitioning to a new and improved architecture for building web applications.
+
+Lerna reborn — What’s new in v6?
+[https://blog.nrwl.io/lerna-reborn-whats-new-in-v6-10aec6e9091c](https://blog.nrwl.io/lerna-reborn-whats-new-in-v6-10aec6e9091c)
+Lerna v6 is out!  And Lerna continues to evolve.
+
+### 大前端
+#### Library
+webvm
+[https://webvm.io/](https://webvm.io/)
+Virtual Machine for the Web
+
+#### HTML
+2022年新出了哪些form表单新特性？
+[https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)
+本文要介绍 Form 的新特性
+
+#### CSS
+Help pick a syntax for CSS nesting survey results
+[https://developer.chrome.com/en/blog/help-css-nesting-results/](https://developer.chrome.com/en/blog/help-css-nesting-results/)
+Out of 7,590 total votes, @nest was a clear winner.
+
+100 Days Of More Or Less Modern CSS
+[https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/](https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/)
+当觉着已经很好地掌握了 CSS 时，可以来看看。
+
+#### Vue
+Vue2、Vue3的diff对比
+[https://mp.weixin.qq.com/s/YOWrzJ4NOokrUE66fL6SnA](https://mp.weixin.qq.com/s/YOWrzJ4NOokrUE66fL6SnA)
+vue2、vue3 的 diff 算法实现差异主要体现在：处理完首尾节点后，对剩余节点的处理方式。
+
+#### NPM
+Why you should prefer using pnpm over npm and yarn?
+[https://refine.dev/blog/pnpm-vs-npm-and-yarn/](https://refine.dev/blog/pnpm-vs-npm-and-yarn/)
+NPM has been widely used as the standard package manager for Javascript; however, companies are quickly adopting the pnpm package manager due to its immense benefits. In this article, we will discuss pnpm in detail. We will explain how it works and will go through why pnpm is a perfect replacement for npm or yarn.
+
+relative-deps: An alternative to npm-link for relative dependencies
+[https://blog.logrocket.com/relative-deps-alternative-npm-link-relative-dependencies/](https://blog.logrocket.com/relative-deps-alternative-npm-link-relative-dependencies/)
+Linking is a small process that quickly adds your dependency to the main project. As a JavaScript developer, mastering relative-deps is a must because it simply saves a lot of time. As and when required, you should try it out and see the advantages.
+
+The Complete Guide To Modules In Browsers And Node.
+[https://blog.openreplay.com/the-complete-guide-to-modules/](https://blog.openreplay.com/the-complete-guide-to-modules/)
+I recommend adopting ES Modules for new Node.js projects unless you encounter an essential (but rare) CommonJS package that is impossible to import. For everything else: use ES Modules. It’s the JavaScript standard.
+
+#### 低代码
+通天塔页面搭建提效揭秘：设计稿自动生成楼层
+[https://mp.weixin.qq.com/s/aB8BEABKCPRBMwD_z6r2Gw](https://mp.weixin.qq.com/s/aB8BEABKCPRBMwD_z6r2Gw)
+通过本文，读者可以对京东营销活动搭建平台通天塔有初步了解，对0代码搭建应用的架构和和设计稿规则识别有新的思考和可能性。
+
+淘宝直播零代码弹窗生产方案总结
+[https://mp.weixin.qq.com/s/WPJjsHa5NZF0jyZAXQtxow](https://mp.weixin.qq.com/s/WPJjsHa5NZF0jyZAXQtxow)
+本文将介绍，淘宝直播前端团队为提升业务触达效率而设计的零代码弹窗动态化方案。
+
+#### 可视化
+上手开源数据可视化工具 Grafana
+[https://mp.weixin.qq.com/s/e2zIX5ddZOjMliqRLJI__g](https://mp.weixin.qq.com/s/e2zIX5ddZOjMliqRLJI__g)
+通过对数据大盘支持能力的调研，我们采用 Grafana 进行了数据大盘的建设。通过搭建 Grafana 服务，然后添加监控上报数据，最终使得【QQ 直播前端监控数据大盘】得以建设完成。
+
+#### 桌面端
+Tauri：下一代桌面应用开发框架？
+[https://mp.weixin.qq.com/s/G4K3nIB1SsYDsOxMv7CyFg](https://mp.weixin.qq.com/s/G4K3nIB1SsYDsOxMv7CyFg)
+本次分享将会对相关常用的一些桌面应用开发框架进行介绍和分析，同时对当下比较流行（GitHub 50k star）的跨平台桌面应用开发框架Tauri进行介绍。
+
+#### 编辑器
+Introducing the Fleet Public Preview
+[https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/](https://blog.jetbrains.com/fleet/2022/10/introducing-the-fleet-public-preview/)
+Today we’re announcing the first public preview of Fleet, which is accessible to everyone. | JB 出品，是否有可能超越 VsCode？拭目以待。
+
+#### 微前端
+微前端在海外商城的应用实战
+[https://mp.weixin.qq.com/s/SQKFqeEjCSJJf25eFmdkQg](https://mp.weixin.qq.com/s/SQKFqeEjCSJJf25eFmdkQg)
+本文将会从背景描述、问题分析、方案设计、应用接入、总结五个方面介绍，为读者全面解析微前端在商城C端的使用。
+
+微前端方案 qiankun 只是更完善的 single-spa
+[https://mp.weixin.qq.com/s/HgEfI8JSFOwfjG4GAoaQJQ](https://mp.weixin.qq.com/s/HgEfI8JSFOwfjG4GAoaQJQ)
+简单介绍微前端实现方案
+
+#### Serverless
+面向云原生的 JavaScript 容器方案
+[https://mp.weixin.qq.com/s/WmWAQN9CCKLW-Ua-93DwyQ](https://mp.weixin.qq.com/s/WmWAQN9CCKLW-Ua-93DwyQ)
+今天，向大家介绍我们最新的面向云原生场景，面向 Serverless 架构下的新产品， 代号  Noslate。
+
+### 设计
+苹果 iOS 16 悄然支持世界上打字最快的 Dvorak 键盘布局
+[https://www.toutiao.com/article/7154344244033962508/](https://www.toutiao.com/article/7154344244033962508/)
+随着 iOS 16 系统的到来，用户已经能够在系统布局中选择触控式优化键盘，并且原生支持已有 86 年历史的 Dvorak 键盘布局，当然也包括更传统的 QWERTY、AZERTY 和 QWERTZ 布局。
+
+### 拓展
+前端架构师的一些思考和总结
+[https://mp.weixin.qq.com/s/DA8ZcojvMqaIB23OkjIZYg](https://mp.weixin.qq.com/s/DA8ZcojvMqaIB23OkjIZYg)
+要想成为好的架构师，没有什么捷径可以走。持续的学习，不停的思考，多问为什么，多想想还能不能更好。
+
+科技爱好者周刊（第 226 期）：谷歌出了什么问题？
+[http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)
+上个月的最后一天（9月30日），谷歌无预警地宣布，关闭自家的游戏平台 Stadia。经过这个事件，有一点可以肯定，游戏行业没人会再相信谷歌了。... 最近十年里面，谷歌再没有诞生过"十亿产品"。
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#crop=0&crop=0&crop=1&crop=1&height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14325&status=done&style=none&title=&width=746)
+
+
+欢迎加入，一起共建「前端小报」
+

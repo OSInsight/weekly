@@ -1,0 +1,100 @@
+### 技术热闻
+2021 JavaScript Rising Stars
+[https://risingstars.js.org/2021/en](https://risingstars.js.org/2021/en)
+Welcome to the 6th edition of the JavaScript Rising Stars, our annual round-up of the JavaScript landscape.
+
+Web3 Browsers for Decentralized Storage
+[https://blog.ipfs.io/2022-01-07-web3-browsers-for-decentralized-storage/](https://blog.ipfs.io/2022-01-07-web3-browsers-for-decentralized-storage/)
+Decentralized storage is well on its way to becoming standard across Web3. Browsers will continue to pave the road for mass adoption of decentralized storage solutions like IPFS.
+
+RE2 Robotics’ 2021 year in review
+[https://www.therobotreport.com/re2-robotics-2021-year-in-review/](https://www.therobotreport.com/re2-robotics-2021-year-in-review/)
+RE2 Robotics, a 2021 RBR50 Robotics Innovation Award winner, shared a recap of what it accomplished in 2021 and some thoughts on what to expect in 2022.
+
+2021年美团技术团队最受欢迎的22篇技术文章
+[https://tech.meituan.com/2022/01/01/2021-summary.html](https://tech.meituan.com/2022/01/01/2021-summary.html)
+「美团技术团队」微信公众号祝大家新年快乐！温故而知新，我们根据文章的「阅读量」和「在看」数，以及所覆盖的技术领域，精选了22篇技术文章作为新年礼物送给大家。希望在2022年，继续陪大家一起，静心苦练，砥砺向前。
+
+What really happened with Aaron Swartz?
+[https://github.com/marak/Faker.js/](https://github.com/marak/Faker.js/)
+[https://github.com/luciferreeves/blaver](https://github.com/luciferreeves/blaver)
+This project was originally created and hosted at [https://github.com/marak/Faker.js/](https://github.com/marak/Faker.js/) - however around 4th Jan, 2022 - the author decided to delete the repository along with the code, for unknown reasons.
+Blaver is a fork of the original Faker.js library.
+
+### 大前端
+Memory leaks: the forgotten side of web performance
+[https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/](https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/)
+So why should you, and why shouldn’t you, care about memory leaks? Obviously I’m biased because I have an axe to grind (and a tool I wrote, fuite), but let me try to give an even-handed take.
+
+首个公开工作草案：CSS包含模块、CSS条件规则模块、CSS级联和继承[https://mp.weixin.qq.com/s/8f6Ldu6B0iRb7b4I2rwS1w](https://mp.weixin.qq.com/s/8f6Ldu6B0iRb7b4I2rwS1w)
+W3C CSS 工作组发布以下三份规范的首个公开工作草案
+
+北海（Kraken）构建大前端混合渲染技术体系 —— Web 与 Flutter Widget 混合渲染方案
+[https://mp.weixin.qq.com/s/PUCrvTxLU_nZPSMhgAm4Gg](https://mp.weixin.qq.com/s/PUCrvTxLU_nZPSMhgAm4Gg)
+Kraken 本身是一款基于 Flutter 技术开发的 Web 渲染引擎，是否可以复用 Flutter 生态，将 Flutter Widget 能力融合进 Web 渲染能力中呢？
+
+Web3.0是什么，为什么MetaVerse这么火？
+[https://mp.weixin.qq.com/s/mif_lVHK0P6voUFzmgsmUA](https://mp.weixin.qq.com/s/mif_lVHK0P6voUFzmgsmUA)
+目前在Web3.0，我也不敢说非常权威，况且3.0不好被管控，国内大概率不会有大的发展，但是对于在世界上走在前沿的技术概念，一定要有一个了解。
+
+「全栈 Web 开发」在字节跳动的实践
+[https://mp.weixin.qq.com/s/J36lVnW-9ystgr8N6zVbUQ](https://mp.weixin.qq.com/s/J36lVnW-9ystgr8N6zVbUQ)
+2022 年 1 月 7 日，在第十届全球软件案例研究峰会中。孔嘉聪分享了《全栈 Web 开发在字节跳动的实践》。分享围绕 Modern.js 展开，并专注于服务端的能力及收益，从不同的角度进一步介绍了 Modern.js。本文是该分享的文字版本，期待大家有所收获。
+
+30+条业务线，携程微信小程序如何协同开发
+[https://mp.weixin.qq.com/s/g1XhCtfIL6yy-37Y_grtEw](https://mp.weixin.qq.com/s/g1XhCtfIL6yy-37Y_grtEw)
+跨团队协作，如何减少耦合，避免互相影响；数十个业务线共同维护一个小程序，而小程序必须作为整体发布，如何协调发布过程，让其有条不紊的进行将是我们讨论的重点。本文将从仓库管理、持续集成、持续交付几个方面进行详细介绍。
+
+### 行业资讯
+Unity与现代汽车公司合作构建新型元宇宙平台，加速智能制造
+[https://mp.weixin.qq.com/s/zsN_Zxo8ZCfpmGAximRERw](https://mp.weixin.qq.com/s/zsN_Zxo8ZCfpmGAximRERw)
+近日，Unity 和全球出行方式革新者现代汽车公司（HMC）于 2022 年消费电子产品展（CES）正式宣布合作，共同设计、打造元工厂（Meta-Factory）的发展路线与平台。
+
+尚美生活推出虚拟员工，属于旅游业的元宇宙已经到来？
+[https://mp.weixin.qq.com/s/D4as-uCKFETztFUQsydIew](https://mp.weixin.qq.com/s/D4as-uCKFETztFUQsydIew)
+元宇宙的风刮到旅游行业早已不是新鲜事，但酒店业和元宇宙的虚拟人概念相结合，还是头一回。
+
+### 设计
+Designing Human-Machine Interfaces For Vehicles Of The Future
+[https://www.smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/](https://www.smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/)
+In this article, let’s look at some ways to help us satisfy users’ needs with proper design.
+
+审批流设计指南
+[https://mp.weixin.qq.com/s/L395m4WDirA4zhs_tsUzAg](https://mp.weixin.qq.com/s/L395m4WDirA4zhs_tsUzAg)
+帮助文章受众系统化了解「什么是审批流」、「如何盘点审批流」、「如何设计审批页面」，以此，在基于合规化的前提下，制定信息传达准确、流程操作高效、节点可预知、历史可回溯的审批系统。
+
+B端设计师如何优化筛选表单？分享几个方向给大家
+[https://mp.weixin.qq.com/s/h6hxV9wAzUEmkx0Blg2ovg](https://mp.weixin.qq.com/s/h6hxV9wAzUEmkx0Blg2ovg)
+这次的改动比较直接，就只针对交互和视觉的样式做调整
+
+### 发现
+playwright
+[https://github.com/microsoft/playwright](https://github.com/microsoft/playwright)
+Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+tauri
+[https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+Build smaller, faster, and more secure desktop applications with a web frontend.
+
+fuite
+[https://github.com/nolanlawson/fuite/](https://github.com/nolanlawson/fuite/)
+A tool for finding memory leaks in web apps
+
+Fundamentals of web application architecture
+[https://www.peerbits.com/blog/web-application-architecture.html](https://www.peerbits.com/blog/web-application-architecture.html)
+The right web application architecture paves the way for future plans of expansion and scalability with what can be called as an intelligent blueprint.
+
+### 更多
+科技爱好者周刊（第 191 期）：一个程序员的财务独立之路
+[http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
+作者20岁时第一次当实习生，发现在 IT 行业，普通人有可能在30多岁就实现"财务独立"，不再为维持生计和支付日常账单而劳碌。以前，他一直以为每个人都需要工作到退休。从此，他就将财务独立作为自己的人生目标。
+
+奇舞周刊第 430 期：动态图片生成方案
+[https://mp.weixin.qq.com/s/swww_v5FY2AZWIGc97fEfA](https://mp.weixin.qq.com/s/swww_v5FY2AZWIGc97fEfA)
+
+技术周报·2022 年的 CSS
+[https://mp.weixin.qq.com/s/rkPPwZNGqZAlZ_gqC7JSVg](https://mp.weixin.qq.com/s/rkPPwZNGqZAlZ_gqC7JSVg)
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#crop=0&crop=0&crop=1&crop=1&height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14325&status=done&style=none&title=&width=746)
+
+
+欢迎加入，一起共建「前端小报」

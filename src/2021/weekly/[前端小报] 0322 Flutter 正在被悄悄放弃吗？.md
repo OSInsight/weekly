@@ -1,0 +1,155 @@
+### 行业资讯
+淘宝特价版将上线微信小程序？AT柏林墙或被击穿
+[http://finance.sina.com.cn/tech/csj/2021-03-19/doc-ikkntiam5404668.shtml](http://finance.sina.com.cn/tech/csj/2021-03-19/doc-ikkntiam5404668.shtml)
+阿里旗下核心电商业务入驻腾讯旗下微信小程序，对于巨头之间彼此筑“墙”十三年之久的互联网来说颇具历史意义。
+
+拼多多把我震惊了，两次
+[https://mp.weixin.qq.com/s/ZwJhx64_X0etkhlrB2KK_Q](https://mp.weixin.qq.com/s/ZwJhx64_X0etkhlrB2KK_Q)
+平台年活跃买家数已经超越了阿里巴巴；黄峥卸任拼多多董事长。
+
+菜篮子的战争：难盈利却都想上市
+[https://mp.weixin.qq.com/s/5AuoibTBONCyX8Dzd22NZA](https://mp.weixin.qq.com/s/5AuoibTBONCyX8Dzd22NZA)
+生鲜电商第一股，即将在2021年诞生。
+
+春天到了，携程能否春暖花开？
+[https://mp.weixin.qq.com/s/UjSs1dLpR_-PaNAdY_XWyA](https://mp.weixin.qq.com/s/UjSs1dLpR_-PaNAdY_XWyA)
+携程去年第一季度也因为疫情黑天鹅出现了巨大的危机，直至今日，携程在财报上看，才算是开始走上坡路。
+
+2021，SaaS渠道新说
+[https://mp.weixin.qq.com/s/adPzrWPuwyQyrWr5v3u7Sw](https://mp.weixin.qq.com/s/adPzrWPuwyQyrWr5v3u7Sw)
+发现只有约15%的国内SaaS厂商建设了渠道代理模式，而传统软件厂商80%都依赖于渠道代理。为什么会这样？
+
+除了评论区，网易云“一无所有”
+[https://mp.weixin.qq.com/s/Er8FItD4H4E1LIBZQgldBA](https://mp.weixin.qq.com/s/Er8FItD4H4E1LIBZQgldBA)
+虽然市占率已经排名第二，但与排名第一的盈利平台腾讯音乐相比，无论是版权等基础建设还是对于商业模式的构建，网易云音乐都相差甚远。
+
+模仿微信，“苹果版小程序”帮助旅游品牌提升用户粘性和无接触体验
+[https://mp.weixin.qq.com/s/xfkqzdJ5Uttv95TouoRB6A](https://mp.weixin.qq.com/s/xfkqzdJ5Uttv95TouoRB6A)
+App Clip是苹果iOS 14系统的一部分，可供用户即时使用，比如订餐，也可以让用户在几秒钟内就完成一项操作或交易。
+
+### 技术热闻
+V8 release v9.0
+[https://v8.dev/blog/v8-release-90](https://v8.dev/blog/v8-release-90)
+
+- RegExp match indices
+- Faster `super` property access
+- `for ( async of` disallowed
+- Faster JS-to-Wasm calls
+
+Flutter 正在被悄悄放弃吗？ #Flutter
+[https://mp.weixin.qq.com/s/hDjbMSPNz_D5JeEBMEJZCA](https://mp.weixin.qq.com/s/hDjbMSPNz_D5JeEBMEJZCA)
+在国内，其实围绕着 Flutter 还有着许多争议。有人在纠结 Flutter 是否值得长期投入，有人质疑 Flutter 的实际表现，有人甚至发出了“Flutter 是否正在被大厂放弃”的疑问。
+
+FlutterWeb在美团外卖的实践 #Flutter
+[https://tech.meituan.com/2021/03/18/flutterweb-in-meituanwaimai.html](https://tech.meituan.com/2021/03/18/flutterweb-in-meituanwaimai.html)
+美团外卖在面对商家端多形态的业务场景下，为保障多端体验的一致性、提升多端迭代的效率，在 Flutter Web 上的尝试。
+
+飞猪Flutter技术演进及业务改造的实践与思考总结 #Flutter
+[https://mp.weixin.qq.com/s/iN2Z1oCYlZbuPEbVYVf4WQ](https://mp.weixin.qq.com/s/iN2Z1oCYlZbuPEbVYVf4WQ)
+本文结合飞猪近半年来在 Flutter 技术实践中的突破和探索，重点介绍跨端标准容器建设、组件库的沉淀、性能优化的经验，以及面对存量业务做 Flutter 改造的新思路。
+
+逻辑编排在优酷可视化搭建中的实践之上 #可视化搭建
+[https://mp.weixin.qq.com/s/ZVZ1skvmIWIjcSz9HhDU3Q](https://mp.weixin.qq.com/s/ZVZ1skvmIWIjcSz9HhDU3Q)
+可视化搭建系统页面生产能力上去了，研发还是一直埋头在组件开发需求中。
+
+超45%增速、阿里腾讯押注，低/无代码迎来爆发 #低代码
+[https://www.toutiao.com/i6939794220588892702/](https://www.toutiao.com/i6939794220588892702/)
+
+前端智能化在阿里云大数据研发平台中的实践 #智能化
+[https://mp.weixin.qq.com/s/__acfuWEWxp7rVHuOHOylg](https://mp.weixin.qq.com/s/__acfuWEWxp7rVHuOHOylg)
+文章主要阐述智能编辑器、智能化可视化以及算法工程方面
+
+凹凸技术揭秘：如何服务 toG 项目——数字人民币项目前端总结 #持续交付
+[https://mp.weixin.qq.com/s/6SNXW-Y0Iv62SoPe1w8o1w](https://mp.weixin.qq.com/s/6SNXW-Y0Iv62SoPe1w8o1w)
+京东面向 toG 的数字人民币项目，主要讲述前端侧如何面对项目快速交付与风险控制的平衡挑战
+
+业务系统的稳定性建设 #稳定性
+[https://mp.weixin.qq.com/s/i0vlj4H3EpIfYYvrh7fC7Q](https://mp.weixin.qq.com/s/i0vlj4H3EpIfYYvrh7fC7Q)
+如何才能在当前架构下准确、高效、即时地了解业务系统的运行情况、保障系统稳定性、快速定位线上异常？本文正是针对于该问题解决方案的探讨。并立足于讨论如何通过建立完善的日志分析系统来保障业务系统的稳定性。
+
+W3C候选推荐标准：WebRTC优先级控制API #WebRTC
+[https://mp.weixin.qq.com/s/n8r90gFMUi1PDh0WBeNqAA](https://mp.weixin.qq.com/s/n8r90gFMUi1PDh0WBeNqAA)
+[https://www.w3.org/TR/2021/CR-webrtc-priority-20210318/](https://www.w3.org/TR/2021/CR-webrtc-priority-20210318/)
+WebRTC Priority Control API
+
+关于 Android 音频延迟的最新动态
+[https://mp.weixin.qq.com/s/ST75Q2RKt_LZrZVtmAmpGA](https://mp.weixin.qq.com/s/ST75Q2RKt_LZrZVtmAmpGA)
+本文将介绍 Android 生态系统最近针对音频开发者的动向以及热门 Android 设备的音频延迟情况，并讨论 Android 在实时音频应用方面的适用性。
+
+### 大前端
+Taro3.2 适配 React Native 之运行时架构详解 #RN
+[https://mp.weixin.qq.com/s/j2AEtp6JwOo48mxL_LDXjA](https://mp.weixin.qq.com/s/j2AEtp6JwOo48mxL_LDXjA)
+58 前端团队主导的 Taro 3 适配 React Native 工作已完成有一段时间了，本文将主要介绍 Taro 3 适配 React Native 运行时相关的详细设计与实现。
+
+借助ffmpeg.wasm纯前端实现多音频和视频的合成 #ffmpeg
+[https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)
+面向场景借助 ffmpeg.wasm 实践
+
+解剖postCSS —— 向前端架构师迈出一小步 #postCSS
+[https://mp.weixin.qq.com/s/P4Uj9g71u5lDzYi9JaMCow](https://mp.weixin.qq.com/s/P4Uj9g71u5lDzYi9JaMCow)
+本文会自底向上介绍`postCSS`，希望通过此文让你对这款大杀器有更深的认识。
+
+Babel原理 #Babel
+[https://mp.weixin.qq.com/s/kI9nm5_hpTvGHHE61fzHNQ](https://mp.weixin.qq.com/s/kI9nm5_hpTvGHHE61fzHNQ)
+解析 -- 转换 -- 生成
+
+滴滴出行小程序体积优化实践 #包大小
+[https://mp.weixin.qq.com/s/MGpFsz0jZBuBYx3R1HQurg](https://mp.weixin.qq.com/s/MGpFsz0jZBuBYx3R1HQurg)
+在19年下半年，为了将微信钱包/支付宝九宫格入口的滴滴出行迁移为小程序，团队对小程序进行了大量的功能升级与补全。在整个过程中也遇到并克服了一系列问题和挑战，其中包体积问题尤为突出。接下来全面介绍一下滴滴出行小程序在体积控制方面做的努力与沉淀。
+
+Webpack’s Hot Module Replacement Feature Explained #HMR
+[https://blog.bitsrc.io/webpacks-hot-module-replacement-feature-explained-43c13b169986](https://blog.bitsrc.io/webpacks-hot-module-replacement-feature-explained-43c13b169986)
+![1_UGYFDKGrQF6ID3CofCHUwg.png](https://cdn.nlark.com/yuque/0/2021/png/85771/1616336860359-a34d383e-5e4c-45df-bf3b-3637e85349d3.png#align=left&display=inline&height=253&margin=%5Bobject%20Object%5D&name=1_UGYFDKGrQF6ID3CofCHUwg.png&originHeight=1080&originWidth=1920&size=86268&status=done&style=none&width=450)
+
+### 设计
+桌面端和移动端的设计差异性
+[https://mp.weixin.qq.com/s/9FpsqfiEnc_oq1SwXbSOOw](https://mp.weixin.qq.com/s/9FpsqfiEnc_oq1SwXbSOOw)
+桌面端是不是把移动端的设计直接平移过来就行，还是说会有差异性？这些差异性背后的原因又是什么？下面与大家分享下桌面端和移动端的设计异同点。
+
+Designing the User Onboarding Experience
+[https://www.uxbooth.com/articles/designing-the-user-onboarding-experience/](https://www.uxbooth.com/articles/designing-the-user-onboarding-experience/)
+This article will explore the onboarding experience, its importance, components, and process. User-onboarding is a process of orienting and familiarizing new users with a product. 
+
+I did the Daily UI Challenge for 15 days and this is what I learnt
+[https://uxplanet.org/i-did-the-daily-ui-challenge-for-15-days-and-this-is-what-i-learnt-3ed0ca8f0473](https://uxplanet.org/i-did-the-daily-ui-challenge-for-15-days-and-this-is-what-i-learnt-3ed0ca8f0473)
+
+### 发现
+弄清 SwiftUI，才看得懂苹果的强大
+[https://sspai.com/post/65567](https://sspai.com/post/65567)
+SwiftUI 于 2019 年度 WWDC 全球开发者大会上发布，它是基于 Swift 建立的声明式框架。该框架可以用于 watchOS、tvOS、macOS、iOS 等平台的应用开发，等于说统一了苹果生态圈的开发工具。
+
+语雀思维图子图嵌套的技术思考
+[https://mp.weixin.qq.com/s/R9YnZnphESqc2yZ7-jGhew](https://mp.weixin.qq.com/s/R9YnZnphESqc2yZ7-jGhew)
+透过一些公开分享资料，会发现 XMind 的人喜欢用“小溪里没鲨鱼”，比喻在思维导图是个过于细分的领域，没有巨头进来，以至于他们这十几年，活下来了，且活的很好。
+
+关于现代包管理器的深度思考——为什么现在我更推荐 pnpm 而不是 npm/yarn?
+[https://juejin.cn/post/6932046455733485575](https://juejin.cn/post/6932046455733485575)
+[https://github.com/pnpm/pnpm](https://github.com/pnpm/pnpm)
+Fast, disk space efficient package manager
+
+moovie.js
+[https://github.com/BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js)
+Movie focused HTML5 Player
+
+Using a Headless CMS to Personalize E-Commerce With LexasCMS
+[https://snipcart.com/blog/headless-cms-personalization-lexascms](https://snipcart.com/blog/headless-cms-personalization-lexascms)
+[https://snipcart.com/blog/headless-ecommerce-guide](https://snipcart.com/blog/headless-ecommerce-guide)
+![headless-e-commerce-graph.webp](https://cdn.nlark.com/yuque/0/2021/webp/85771/1616336998652-6232fba8-e247-434d-b172-defaf3fa4c61.webp#align=left&display=inline&height=381&margin=%5Bobject%20Object%5D&name=headless-e-commerce-graph.webp&originHeight=800&originWidth=700&size=18844&status=done&style=none&width=333)
+Leveraging Machine Learning for Game Development
+[https://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html](https://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html)
+Today, we present an approach that leverages machine learning (ML) to adjust _game balance_ by training models to serve as play-testers, and demonstrate this approach on the digital card game prototype _[Chimera](https://www.youtube.com/watch?t=239&v=hMWjerCqRFA)_, which we’ve previously shown as a testbed for [ML-generated art](https://ai.googleblog.com/2020/11/using-gans-to-create-fantastical.html).
+
+### 更多
+前端技术观察第 31 期
+[https://mp.weixin.qq.com/s/xTmNjfDz_cxbk6ImHcWMCQ](https://mp.weixin.qq.com/s/xTmNjfDz_cxbk6ImHcWMCQ)
+字节跳动 IES 前端团队收集、整理、推荐
+
+奇舞周刊第 389 期
+[https://weekly.75.team/issue389.html](https://weekly.75.team/issue389.html)
+
+科技爱好者周刊（第 150 期）：当音乐还是稀缺的时候
+[http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#align=left&display=inline&height=31&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&size=14325&status=done&style=none&width=746)
+
+
+欢迎加入，一起共建「前端小报」

@@ -1,0 +1,147 @@
+### 行业资讯
+WWDC 2021速看！没有硬件，软件打通硬件生态
+[https://mp.weixin.qq.com/s/x-0ghHwDUsMofppc5sLpJg](https://mp.weixin.qq.com/s/x-0ghHwDUsMofppc5sLpJg)
+[https://developer.apple.com/wwdc21/](https://developer.apple.com/wwdc21/)
+备受关注的苹果 WWDC21如约而至，推出 iOS 15、iPadOS 15、macOS Monterey 和 watchOS 8。
+
+亚朵酒店招股，加盟商招魂
+[https://mp.weixin.qq.com/s/NrBGbzL8dHMGryq50Zz2BA](https://mp.weixin.qq.com/s/NrBGbzL8dHMGryq50Zz2BA)
+一文拆解亚朵酒店招股书背后的坑人秘密。去年亚朵OTA渠道间夜量占比仅为19.9%。招股书显示，相比OTA渠道，2020年，亚朵酒店会员“贡献”的间夜量出奇的高，亚朵向A-Card会员销售了近44.7%的间夜量，占比接近一半。
+
+千亿美金公司或登场，滴滴的故事终于见真章
+[https://mp.weixin.qq.com/s/xEOedRL3URWKQnp4RPXbgQ](https://mp.weixin.qq.com/s/xEOedRL3URWKQnp4RPXbgQ)
+滴滴终于在上市进程中迈出了关键一步。以后要和uber坦诚相对了。
+
+“精致懒”年轻人正造就千亿级速食品市场
+[https://mp.weixin.qq.com/s/2m1qdxscQCRbV_QnII0TFQ](https://mp.weixin.qq.com/s/2m1qdxscQCRbV_QnII0TFQ)
+面对庞大的市场潜力，方便速食领域迎来了一波新品牌和新品类的加码布局。
+
+### 技术热闻
+Workload Automation: In-depth guide on benefits & challenges
+[https://research.aimultiple.com/workload-automation/](https://research.aimultiple.com/workload-automation/)
+The growing interest in rapid and automated business workflows has driven a growth in the global workload automation industry. Workload automation (WLA) is software for automating, scheduling, and executing business workflows with little to no human intervention.
+
+A guide to IPFS connectivity in web browsers
+[https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/](https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/)
+This post demonstrates a minimal chat example in js-ipfs entirely in the browser. It uses WebRTC to achieve browser-to-browser connectivity where possible, and a circuit relay to connect browser nodes where not. Message passing is done with libp2p's pubsub.
+
+Reactive Streams with Kotlin, Webflux, and rsocket-js
+[https://auth0.com/blog/reactive-streams-with-kotlin-webflux-and-rsocket-js/#An-analogy-for-reactive-programming](https://auth0.com/blog/reactive-streams-with-kotlin-webflux-and-rsocket-js/#An-analogy-for-reactive-programming)
+The concept of reactive programming has enjoyed a resurgence in the last few years. In this post, we'll dive into a simple example application implementing a WebFlux server accessed from a web page via RSockets.
+
+WebKit Features in Safari at WWDC21
+[https://webkit.org/blog/11700/webkit-features-in-safari-at-wwdc21/](https://webkit.org/blog/11700/webkit-features-in-safari-at-wwdc21/)
+There’s a lot of news coming out of WWDC21 about WebKit and the web technology that’s shipping in Safari 15 on Apple’s platforms.
+
+有赞移动天网平台搭建
+[https://tech.youzan.com/mobileskynet/](https://tech.youzan.com/mobileskynet/)
+针对线上 bug ，除了商家主动上报问题，后端还有自己的天网监控体系，进行主动发现问题，那移动端如何进行主动防控呢？所以我们也需要自己的主动防控平台。
+
+Why IaaS beat PaaS
+[https://www.swyx.io/why-iaas-beat-paas/](https://www.swyx.io/why-iaas-beat-paas/)
+The IaaSes, being lower level by nature, were in a better place to build up the multilayered cake, than the PaaSes were able to break themselves up.
+
+The Importance of A/B Testing in Robotics
+[https://ai.googleblog.com/2021/06/the-importance-of-ab-testing-in-robotics.html](https://ai.googleblog.com/2021/06/the-importance-of-ab-testing-in-robotics.html)
+In this blog post, we show that robotics research can benefit from using this same methodology: it improves the quality and confidence of research results, and avoids the impossible task of perfectly controlling all elements of a fundamentally changing environment.
+
+Package Collections
+[https://swift.org/blog/package-collections/](https://swift.org/blog/package-collections/)
+In Swift 5.5, the Swift Package Manager adds support for package collections — bite size curated lists of packages that make it easy to discover, share and adopt packages.
+
+### 大前端
+React 18 发布计划 #React
+[https://zh-hans.reactjs.org/blog/2021/06/08/the-plan-for-react-18.html](https://zh-hans.reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
+[https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
+[https://github.com/reactwg/react-18](https://github.com/reactwg/react-18)
+When it’s released, React 18 will include out-of-the-box improvements (like [automatic batching](https://github.com/reactwg/react-18/discussions/21)), new APIs (like [startTransition](https://github.com/reactwg/react-18/discussions/41)), and a [new streaming server renderer](https://github.com/reactwg/react-18/discussions/37) with built-in support for React.lazy.
+
+How to create NFTs with JavaScript #NFT
+[https://blog.logrocket.com/how-to-create-nfts-with-javascript/](https://blog.logrocket.com/how-to-create-nfts-with-javascript/)
+An NFT (non-fungible token) is a fascinating new technology that represents ownership of an asset digitally. In this tutorial, we’ll cover some important background information, set up third-party services, and finally code and deploy our very own NFT to the Ropsten Testnet.
+
+初窥鸿蒙 #Harmony OS
+[https://mp.weixin.qq.com/s/yxpSglFwBufmA2arxUv8pw](https://mp.weixin.qq.com/s/yxpSglFwBufmA2arxUv8pw)
+使用鸿蒙的 JS SDK 开发 App，整体的项目结构、生命周期以及开发流程很像微信的小程序，而 hml 和 JS 的语法又很像 Vue，整个流程走下来，感觉对 web 开发者而言还是很友好的，相信有 Web 前端开发基础的小伙伴们都可以快速的上手。
+
+美团民宿跨端复用框架设计与实践 #跨端
+[https://tech.meituan.com/2021/06/10/react-native-hybrid-practice-dsl-in-meituan.html](https://tech.meituan.com/2021/06/10/react-native-hybrid-practice-dsl-in-meituan.html)
+从业务角度出发，跨端技术演进更多是在不同阶段、不同时间段内业务效率上的选择，美团民宿业务就是在大前端融合的浪潮中逐浪前行，不断探索和迭代抉择，为解决业务痛点而孵化出跨端框架技术。本文主要分享美团民宿在跨端复用技术探索层面以及业务实践过程中积累的经验，希望能给大家带来一些帮助或者启发。
+
+干货 | Trip.com APP 启动优化实践 #Performance
+[https://mp.weixin.qq.com/s/smWjs2X8HWvcvKW_DSXYJA](https://mp.weixin.qq.com/s/smWjs2X8HWvcvKW_DSXYJA)
+本文将分享Trip.com App的启动优化实践，从分析App启动的过程开始，在了解启动流程的基础上制定大的优化原则和小的具体方案，希望能对大家有所帮助。
+
+Building a Component Marketplace For Your Team #CDD
+[https://blog.bitsrc.io/building-a-component-marketplace-for-your-team-31257314c56c](https://blog.bitsrc.io/building-a-component-marketplace-for-your-team-31257314c56c)
+Modern application development is component-driven. This means teams need to find a way to turn components into “Lego” pieces that can share in a common Lego box, and use them to build their different projects.
+
+How to choose the right React state management solution #State Management
+[https://blog.logrocket.com/how-to-choose-the-right-react-state-management-solution/](https://blog.logrocket.com/how-to-choose-the-right-react-state-management-solution/)
+There are many valid ways to manage state in React, and each one solves a salient set of problems. In this article, we’ll cover common use cases for managing state in React and learn when you should consider using each solution. Let’s accomplish this by building a simple counter app.
+
+What is web application security? Everything you need to know. #Security
+[https://www.dynatrace.com/news/blog/what-is-web-application-security/](https://www.dynatrace.com/news/blog/what-is-web-application-security/)
+In this blog, I’ll first cover the basics, explaining what web application security is and why it’s important. Then I will describe various types of security products that can be used for web application security including some innovations that Dynatrace has recently introduced.
+
+Useful Front-End Boilerplates And Starter Kits
+[https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/)
+We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.
+
+Socket Libraries for Your Pub/Sub Architecture
+[https://javascript.plainenglish.io/socket-libraries-for-your-pub-sub-architecture-abdf3ec5f06d](https://javascript.plainenglish.io/socket-libraries-for-your-pub-sub-architecture-abdf3ec5f06d)
+I just had to make the same choice for a project and ended up studying the most popular socket libraries in the Node.js ecosystem, namely [socket.io](https://www.npmjs.com/package/socket.io), [ws](https://www.npmjs.com/package/ws), [sockJS](https://www.npmjs.com/package/sockjs) and [primus](https://www.npmjs.com/package/primus) and I hope I can help you out!
+
+### 设计
+做交互选B端还是C端？来看这篇亲历分析！
+[https://www.uisdc.com/tob-or-toc](https://www.uisdc.com/tob-or-toc)
+交互设计的关键条目为：创造和建立人与产品及服务之间有意义的关系，创造有用且实用的产品及服务，以用户的目标、任务、体验、需求为基础，平衡用户需求、商业发展目标和科技发展水平之间的关系。
+
+超详细智能产品深度解析：交互动效篇
+[https://www.uisdc.com/smart-panel-2](https://www.uisdc.com/smart-panel-2)
+智能产品的设计过程中，常常用到动效设计，那么[动效设计](https://www.uisdc.com/tag/%e5%8a%a8%e6%95%88%e8%ae%be%e8%ae%a1)用在哪些地方及对提升智能设备体验带来什么帮助，是这篇文章要讲的。
+
+Case Study on Ad Manager: How I solved a Design Challenge at TopCoder
+[https://uxplanet.org/case-study-on-ad-manager-how-i-solved-a-design-challenge-at-topcoder-9cfa3044615c](https://uxplanet.org/case-study-on-ad-manager-how-i-solved-a-design-challenge-at-topcoder-9cfa3044615c)
+In this case study, I am going to take you through the process of solving a design challenge. This is an Ad Manager which will manage your ad campaigns from different platforms like facebook, google, instagram etc. I will take you through my thought process and design decisions.
+
+UI/UX Case Study
+[https://blog.prototypr.io/ui-ux-case-study-590938bd2809](https://blog.prototypr.io/ui-ux-case-study-590938bd2809)
+This is a UI/UX case study of a real estate-based trading app. The key focus here is to get inside my head and understand how I began my research and integrated the entire idea through design.
+
+### 发现
+js-ipfs
+[https://github.com/ipfs/js-ipfs](https://github.com/ipfs/js-ipfs)
+IPFS implementation in JavaScript
+
+ethers.js
+[https://github.com/ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)
+Complete Ethereum library and wallet implementation in JavaScript.
+
+Revision History is officially live - CKEditor 5 v28.0.0 released
+[https://ckeditor.com/blog/revision-history-is-officially-live-ckeditor-5-v28.0.0-released/](https://ckeditor.com/blog/revision-history-is-officially-live-ckeditor-5-v28.0.0-released/)
+
+Learn What’s New in .NET Productivity
+[https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/](https://devblogs.microsoft.com/visualstudio/learn-whats-new-in-net-productivity/)
+
+What's coming in ESLint v8.0.0
+[https://eslint.org/blog/2021/06/whats-coming-in-eslint-8.0.0](https://eslint.org/blog/2021/06/whats-coming-in-eslint-8.0.0)
+Dropping support for Node.js v10.x, 13.x, and 15.x; Support for ES2022 class fields and top-level await
+
+CLEVER VS INSIGHTFUL CODE
+[https://www.hillelwayne.com/post/cleverness/](https://www.hillelwayne.com/post/cleverness/)
+We talk about cleverness as if it’s Just Bad, such as “clever code is harder to debug”. That’s going too far. Cleverness can lead to faster, safer, even clearer code. I’m going to call this class of cleverness “insightful” to distinguish them.
+
+### 更多
+JSK Weekly - June 09, 2021
+[https://javascriptkicks.com/](https://javascriptkicks.com/)
+
+奇舞周刊第 401 期
+[https://weekly.75.team/issue401.html](https://weekly.75.team/issue401.html)
+
+科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏
+[http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&size=14325&status=done&style=none&width=746)
+
+
+欢迎加入，一起共建「前端小报」

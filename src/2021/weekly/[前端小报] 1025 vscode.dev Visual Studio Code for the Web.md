@@ -1,0 +1,112 @@
+### 技术热闻
+vscode.dev Visual Studio Code for the Web
+[https://code.visualstudio.com/blogs/2021/10/20/vscode-dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
+
+Node.js 17 is here!
+[https://nodejs.org/en/blog/release/v17.0.0/](https://nodejs.org/en/blog/release/v17.0.0/)
+[https://medium.com/the-node-js-collection/node-js-17-is-here-8dba1e14e382](https://medium.com/the-node-js-collection/node-js-17-is-here-8dba1e14e382)
+
+云栖大会上，阿里巴巴重磅发布前端知识图谱！
+[https://mp.weixin.qq.com/s/c8WXCTl6wMqd2AJktX7SIg](https://mp.weixin.qq.com/s/c8WXCTl6wMqd2AJktX7SIg)
+阿里巴巴前端知识图谱，由大阿里众多前端技术专家团历经1年时间精心整理，从 初阶 -> 中阶 -> 高阶 的维度讲述前端的 成长路线。
+
+React全新文档终于来了
+[https://beta.reactjs.org/](https://beta.reactjs.org/)
+[https://mp.weixin.qq.com/s/2uA4EXGXYENsymr7LwmhQA](https://mp.weixin.qq.com/s/2uA4EXGXYENsymr7LwmhQA)
+时隔一年，21年10月22日，React新文档Beta版终于上线了。
+
+前端不容你亵渎
+[https://mp.weixin.qq.com/s/uZ02TG27zeqmB-9O_1BvhA](https://mp.weixin.qq.com/s/uZ02TG27zeqmB-9O_1BvhA)
+在我看来，前后端开发只是分工不同。虽然在大公司内部，后端的高 P 确实比前端多，但也不要忘了，后端开发的人也比前端多的多。真正厉害的人，无论是做前端还是后端，都会对对方做的工作有足够多的敬畏和尊重。
+
+### 大前端
+A Visual Guide to React Rendering - Cheat Sheet
+[https://alexsidorenko.com/blog/react-render-cheat-sheet/](https://alexsidorenko.com/blog/react-render-cheat-sheet/)
+This article serves as a table of contents for a Visual Guide to React Rendering series.
+
+Why hooks are the best thing to happen to React
+[https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/)
+Originally, React mainly used class components, which can be strenuous at times as you always had to switch between classes, higher-order components, and render props. With React hooks, you can now do all these without switching, using functional components.
+
+Let's talk about Native HTML Tabs
+[https://daverupert.com/2021/10/native-html-tabs/](https://daverupert.com/2021/10/native-html-tabs/)
+Open UI is a community group so we can’t technically make HTML (for legal reasons), but we can present research to the W3C working groups.
+
+An Introduction To Quasar Framework: Building Cross-Platform Applications
+[https://github.com/quasarframework/quasar](https://github.com/quasarframework/quasar)
+[https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/](https://www.smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/)
+Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once.
+
+Garfish 微前端实现原理
+[https://mp.weixin.qq.com/s/5t1RpPXVCGCPlxGBmxUGbg](https://mp.weixin.qq.com/s/5t1RpPXVCGCPlxGBmxUGbg)
+本次是针对garfish的实现分析。下面会从资源加载入口，资源解析，沙箱环境，代码执行四大块进行分析，了解微前端的主要实现逻辑。
+
+迈向应用研发新时代，前后端一体化研发模式即刻体验
+[https://mp.weixin.qq.com/s/PvZbW1Nm2-w2F1qYaNfLpg](https://mp.weixin.qq.com/s/PvZbW1Nm2-w2F1qYaNfLpg)
+随着 Serverless 基础服务带来的技术红利，前端工程师能够以更低成本和更高可靠性掌控后端的服务。在应用开发过程中不仅仅要考量运维的成本，如何让前端开发架构同后端应用架构结合，来实现应用研发提效，同样是开发者关注的核心，本文将从前后端一体化研发模式的开发实践上同大家一起讨论探索。
+
+一次奇妙深刻的域名在海外解析失败问题排查之旅
+[https://mp.weixin.qq.com/s/mknHGXcaMnPGRLMpEBdRSA](https://mp.weixin.qq.com/s/mknHGXcaMnPGRLMpEBdRSA)
+域名在海外解析失败，查了一通原来是 DNSSEC 配置错误导致全球大部分 DNS 服务器都丢弃了解析结果，解析失败。而因为中国大陆 DNS 服务器绝大多数都关闭了 DNSSEC 校验，所以在中国大陆能解析，而境外 DNS 全军覆没。
+
+性能分析不一定得用 Profiler，复杂度分析也行
+[https://mp.weixin.qq.com/s/DoGxYQO0KF2DzNNnldLLPg](https://mp.weixin.qq.com/s/DoGxYQO0KF2DzNNnldLLPg)
+如果提到性能分析，你会想到什么呢？可以做耗时分析、内存占用的的分析。可以用 chrome devtools 的 Profiler，包括 performance 和 memory，分别拿到耗时和内存占用的数据，而且还可以用火焰图做可视化分析。
+
+Source Map在前端监控中的应用和实践
+[https://mp.weixin.qq.com/s/OmUKoF_5BishvHx_z4_bMQ](https://mp.weixin.qq.com/s/OmUKoF_5BishvHx_z4_bMQ)
+根据压缩代码的报错信息是很难定位错误的，但是，线上代码又必须压缩上传处理。如何平衡？SourceMap正是解决这个矛盾的利器。本文将从Source Map的基本概念及其在前端异常监控中的运用、设计及实践等方面进行介绍。
+
+Monitor your web application with the Reporting API
+[https://web.dev/reporting-api/](https://web.dev/reporting-api/)
+Setting up the Reporting API gives you peace of mind that when users experience these types of errors, you'll know, so you can fix them. This post covers what this API can do and how to use it.
+
+### 行业资讯
+苹果发布最强芯片炸翻全场，给Intel们致命一击！
+[https://mp.weixin.qq.com/s/Dxb_EfgkH0v1bmwEsPnpfg](https://mp.weixin.qq.com/s/Dxb_EfgkH0v1bmwEsPnpfg)
+10/19 评估新品发布会
+
+同为买买买，张一鸣和马化腾“道不同”
+[https://mp.weixin.qq.com/s/3akwbygwj8Tj6gjiBP6d3Q](https://mp.weixin.qq.com/s/3akwbygwj8Tj6gjiBP6d3Q)
+10月20日，福布斯实时富豪榜显示，字节跳动创始人张一鸣的身价达到594亿美元，取代马化腾成为新的中国互联网首富。
+
+格林酒店APP被下架，过度索取用户信息的“紧箍咒”来了
+[https://mp.weixin.qq.com/s/CQ9EGGSPMI508AJLp3Losg](https://mp.weixin.qq.com/s/CQ9EGGSPMI508AJLp3Losg)
+最近，国家工信部对APP挥重拳，对96款APP进行下架，格林、驴妈妈旅游等旅行住宿类APP也在其列。装在手机里一直“如影随行”的APP为何总越红线，对于酒店又有哪些启示？
+
+小红书道歉了！
+[https://mp.weixin.qq.com/s/Hh4JAtKywy-CK1OlFvnrWg](https://mp.weixin.qq.com/s/Hh4JAtKywy-CK1OlFvnrWg)
+小红书成立于2013年，是国内大型的“种草”内容社区和生活方式平台。今年9月，南都记者调查发现，虚假笔记大量存在于小红书平台上，甚至成为“专业号”获得曝光量。
+
+谁让脱口秀走进万家灯火
+[https://mp.weixin.qq.com/s/QfZObxz2s4_UBE71m52U7Q](https://mp.weixin.qq.com/s/QfZObxz2s4_UBE71m52U7Q)
+在《吐槽大会》以及往季《脱口秀大会》收割大把流量后，出品方笑果文化不仅自家线下演出场场爆满，还提升了整个行业的售票数。
+
+### 设计
+探秘｜复古动画的策动与制作
+[https://mp.weixin.qq.com/s/_EmhnGe-XHlZ2tsWjQdrQw](https://mp.weixin.qq.com/s/_EmhnGe-XHlZ2tsWjQdrQw)
+QQ和TIN TOWN的此次品牌联名以极地探险为主题，打造了极地探险队的概念，宣传片的动画也由此展开...
+
+Four Principles for the Future of Design
+[https://medium.com/microsoft-design/four-principles-for-the-future-of-design-78922340cece](https://medium.com/microsoft-design/four-principles-for-the-future-of-design-78922340cece)
+How the Fluent Design System helps us evolve and grow better together. Losing our values in design is like losing our religion.
+
+### 发现
+二十年老程序员的二十条心得：面试几乎没用，警惕很久没写过代码的“大牛”
+[https://www.infoq.cn/article/o1Fjrx83Pbh4mf9xp0O2](https://www.infoq.cn/article/o1Fjrx83Pbh4mf9xp0O2)
+今天这些建议来自一位有二十年行业经验的软件工程师，他的总结在 Hacker News 上引发了大量的讨论，帖子多天来一直占据“热榜”第一。
+
+The Case for ‘Developer Experience’
+[https://future.a16z.com/the-case-for-developer-experience/](https://future.a16z.com/the-case-for-developer-experience/)
+
+再谈辍学
+[https://lutaonan.com/blog/talking-about-dropout-again/](https://lutaonan.com/blog/talking-about-dropout-again/)
+
+### 更多
+科技爱好者周刊（第 180 期）：你想住在中国哪里？
+[http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)
+对于程序员来说，年轻时在大城市打拼，有了积累之后，移居到其它地方，追求自己想要的生活，以后大概会成为一种潮流吧。
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&size=14325&status=done&style=none&width=746)
+
+
+欢迎加入，一起共建「前端小报」

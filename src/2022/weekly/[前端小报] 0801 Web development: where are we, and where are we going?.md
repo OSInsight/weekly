@@ -1,0 +1,119 @@
+![www.visualcapitalist.com_cp_the-rise-and-fall-of-popular-web-browsers-since-1994_.png](https://cdn.nlark.com/yuque/0/2022/png/85771/1659233520219-8066137e-71a3-4bad-9a3c-76bec732343f.png#clientId=uf2491562-2191-4&crop=0.0337&crop=0&crop=0.9689&crop=1&from=ui&height=372&id=ud2c8964c&margin=%5Bobject%20Object%5D&name=www.visualcapitalist.com_cp_the-rise-and-fall-of-popular-web-browsers-since-1994_.png&originHeight=1434&originWidth=1544&originalType=binary&ratio=1&rotation=0&showTitle=false&size=416326&status=done&style=none&taskId=u9f090abd-b313-4637-a794-7aab9ceca18&title=&width=400)
+Source: [Animation: The Rise and Fall of Popular Web Browsers Since 1994](https://www.visualcapitalist.com/cp/the-rise-and-fall-of-popular-web-browsers-since-1994/)
+### 技术热闻
+预测一下前端开发的未来
+[https://mp.weixin.qq.com/s/KH5vW6-jNnavaz6dg16F7g](https://mp.weixin.qq.com/s/KH5vW6-jNnavaz6dg16F7g)
+当某一产品成为主流后，就会听见一种声音：不要光会用产品/系统/框架，你还得理解背后的原理。当某个产品成为绝对主流，被大规模应用，以至于成为事实上的「基础设施」后，下一代技术人很可能不会再接触上一代人所谓的「原理知识」。 | 另附 [WWC22 - Web development: where are we, and where are we going?](https://www.youtube.com/watch?v=hWjT_OOBdOc)
+
+尤雨溪主题演讲《2022 前端生态趋势》全记录
+[https://mp.weixin.qq.com/s/Q3o0ryTs3g24s0Te1MFqRw](https://mp.weixin.qq.com/s/Q3o0ryTs3g24s0Te1MFqRw)
+7 月 22 日上午观看了 第二届稀土开发者大会 尤大关于 《2022 Web 前端生态趋势》 的主题分享，记录如下，有时间的同学可以观看大会的回放：https://juejin.cn/live/xdc202201
+
+[欢迎注册] 新一代 Web 技术标准论坛 · W3C 2022 年度全球技术大会中国分会场
+[https://mp.weixin.qq.com/s/Tx9_eW9FfddMROYAZwYlQA](https://mp.weixin.qq.com/s/Tx9_eW9FfddMROYAZwYlQA)
+
+Release Radar · June 2022 Edition
+[https://github.blog/2022-07-27-release-radar-jun-2022/](https://github.blog/2022-07-27-release-radar-jun-2022/)
+It's been a crazy couple of months with the end of financial year and lots of products shipping. Our community has been hard at work shipping projects too. These projects…
+
+New to the web platform in July
+[https://web.dev/web-platform-07-2022/](https://web.dev/web-platform-07-2022/)
+Discover some of the interesting features that landed in stable and beta web browsers during July 2022.
+
+- The backdrop-filter property
+- The scroll-snap-stop property
+
+Programming languages endorsed for server-side use at Meta
+[https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)
+Meta’s primary supported server-side languages are Hack, C++, Rust, and Python. 
+
+- For performance-sensitive back-end services, we encourage C++ and Rust.
+- For CLI tools, we recommend Rust.
+- For business logic and relatively stateless applications, the Hack ecosystem
+- Finally, Meta continues to heavily support our Python developers.
+- For specific use cases, we support other languages, including Java, Erlang, Haskell, and Go. 
+
+### 大前端
+#### CSS
+A good reset
+[https://www.trysmudford.com/blog/a-good-reset/](https://www.trysmudford.com/blog/a-good-reset/)
+Adding a good CSS reset to an established codebase is tricky; the side effects of changing very global element styles can be unknown and far-reaching. But if you can get your buttons looking as plain as a div from the start of a project, there’s very little reason not to use the proper element.
+
+Control
+[https://adactio.com/journal/19315](https://adactio.com/journal/19315)
+If your background is in computer science, then the ability to precisely predict how a programme will behave is a virtue. Any potential side-effects that aren’t within your control are undesirable. The only way to ensure that an interface will behave exactly as you want is to write it entirely from scratch, even if that means using more JavaScript and ARIA than is necessary.
+
+But I don’t think it’s a great mindset for the web. The web is filled with uncertainties—browsers, devices, networks. You can’t possibly account for all of the possible variations. On the web, you have to relinquish some control.
+
+2022 推荐关注这个零运行时且支持 TS 的 CSS-in-JS 框架
+[https://mp.weixin.qq.com/s/OpCQJaSbzqWEykAh_qGJfQ](https://mp.weixin.qq.com/s/OpCQJaSbzqWEykAh_qGJfQ)
+前段时间在个人项目中使用了 Vanilla Extract，不同于其它 CSS-in-JS 方案，它可以在编译时期编译出 CSS 样式文件，实现了零运行时且支持 TypeScript。
+
+#### Three.js
+The Study of Shaders with React Three Fiber
+[https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/](https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/)
+In this article, you'll find everything I learned about shaders during my experimentations, from how they work and use them with React Three Fiber to making them dynamic and interactive ✨. 
+
+#### Browser
+跨桌面端Web容器演进
+[https://mp.weixin.qq.com/s/cAPAHzlChV-TjbAIj4YQ_Q](https://mp.weixin.qq.com/s/cAPAHzlChV-TjbAIj4YQ_Q)
+浏览器是大家所熟悉的。本文会从容器的架构演进，容器的功能增强和稳定性保障及未来的演进，这3个方面介绍一下我们的应用程序是如何对接浏览器的能力的。
+
+Animation: The Rise and Fall of Popular Web Browsers Since 1994
+[https://www.visualcapitalist.com/cp/the-rise-and-fall-of-popular-web-browsers-since-1994/](https://www.visualcapitalist.com/cp/the-rise-and-fall-of-popular-web-browsers-since-1994/)
+This animated graphic by James Eagle chronicles the evolution of the web browser market, showing the rise and fall of various internet portals from January 1994 to March 2022.
+
+- The 1990s: From Mosaic to Netscape
+- The 2000s: Internet Explorer Enters the Chat, Followed by Firefox
+- Present Day: Google Chrome is King of the Web Browsers
+
+#### Node.js
+Node.js: creating ESM-based shell scripts for Unix and Windows
+[https://2ality.com/2022/07/nodejs-esm-shell-scripts.html](https://2ality.com/2022/07/nodejs-esm-shell-scripts.html)
+In this blog post, we learn how to implement shell scripts via Node.js ESM modules. There are two common ways of doing so.
+
+#### 组件库
+Arco Design Mobile 开源啦！
+[https://mp.weixin.qq.com/s/uCjdK_GgX5_ElixplTkJqg](https://mp.weixin.qq.com/s/uCjdK_GgX5_ElixplTkJqg)
+基于 Arco Design 设计系统、由字节跳动 UED & 小说前端匠心打造、经历两年多字节内部打磨的 Arco Design Mobile 移动端组件库开源虽迟但到
+
+#### 低代码
+Sunmao——一个开发低代码工具的开源框架
+[https://juejin.cn/post/7122368174808367141](https://juejin.cn/post/7122368174808367141)
+[https://github.com/smartxworks/sunmao-ui](https://github.com/smartxworks/sunmao-ui)
+Sunmao(榫卯)是一个低代码工具的开源框架。你可以在 Sunmao 中集成自定义 UI 组件，创建属于自己的低代码工具。
+
+关于低代码平台建设的思考与实践暨BPM表单设计器前端技术解析
+[https://mp.weixin.qq.com/s/hVoVdvt_sHUuVxvfSwgEVQ](https://mp.weixin.qq.com/s/hVoVdvt_sHUuVxvfSwgEVQ)
+这个世界上没有一款产品能解决所有的问题。同样都是低代码平台，不同厂商、团队推出的产品，由于定位不同，面向的场景不同，产品功能设计上自然会有差异。今天主要是基于本人在低代码领域的研发经验，分享下 BPM 表单设计器的一些研发实践。
+
+#### 架构设计
+深入浅出依赖注入及其在抖音直播中的应用
+[https://mp.weixin.qq.com/s/Zp-OqCVVr9CbDv1Y1zWN-w](https://mp.weixin.qq.com/s/Zp-OqCVVr9CbDv1Y1zWN-w)
+本文试图从原理入手，讲清楚什么是依赖，什么是反转，依赖反转与控制反转的关系又是什么？一个依赖注入框架应该具备哪些能力？抖音直播又是如何通过依赖注入优雅的实现模块间的解耦？通过对依赖注入架构优缺点的分析，能对其能有更全面的了解，为后续的架构设计工作带来更多的灵感。
+
+### 设计
+实战复盘！「顺丰速运」运营版 IP 形象设计总结
+[https://www.uisdc.com/sf-ip-design](https://www.uisdc.com/sf-ip-design)
+顺丰速运运营版 IP 形象主要服务于[顺丰速运](https://www.uisdc.com/topic/%e9%a1%ba%e4%b8%b0%e9%80%9f%e8%bf%90)线上运营业务，于 2020 年 11 月创作完成，并在 2021 年 9 月经由中国版权保护中心审核完成版权登记。IP 形象在我们线上运营视觉设计中起着关键作用，接下来和大家详细介绍一下我们的创作思路。
+
+Inspirational Websites Roundup #40
+[https://tympanus.net/codrops/2022/07/30/inspirational-websites-roundup-40/](https://tympanus.net/codrops/2022/07/30/inspirational-websites-roundup-40/)
+A fresh set of inspirational websites that have an outstanding design.
+
+### 启发
+THE MAGIC COOKIE: HOW LOU MONTULLI CURED THE WEB’S AMNESIA
+[https://hiddenheroes.netguru.com/lou-montulli](https://hiddenheroes.netguru.com/lou-montulli)
+
+十年编程生涯，从辍学到成为Deno核心代码贡献者
+[https://mp.weixin.qq.com/s/LcnSLU_5V6vl-UIZyfHyVg](https://mp.weixin.qq.com/s/LcnSLU_5V6vl-UIZyfHyVg)
+编程十余年，他已在GitHub开源三百多个项目，项目总Star数位居全球TOP 20。从后端成功转型为前端，成为Deno核心代码贡献者的迷渡（网络ID：justjavac）分享了他这一路的成长与感悟。同时，也给新一代开发者留下了寄语：“学历代表过去，能力代表现在，学习能力代表未来”。
+
+科技爱好者周刊（第 216 期）：极简主义的胜利
+[http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)
+可以预期，极简主义会继续大行其道。只要某个领域采用商业规则，那么就会采用极简主义的设计。
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#crop=0&crop=0&crop=1&crop=1&height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14325&status=done&style=none&title=&width=746)
+
+
+欢迎加入，一起共建「前端小报」
+

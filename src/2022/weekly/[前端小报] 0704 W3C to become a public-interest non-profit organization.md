@@ -1,0 +1,139 @@
+![image.png](https://cdn.nlark.com/yuque/0/2022/png/85771/1656870911518-71383dc0-f056-4578-847d-47277826d526.png#clientId=ua3ec6d23-dcde-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=275&id=uaf21e601&margin=%5Bobject%20Object%5D&name=image.png&originHeight=550&originWidth=800&originalType=binary&ratio=1&rotation=0&showTitle=false&size=250567&status=done&style=none&taskId=u8e489049-1ed0-47d9-a247-f5f4606705f&title=&width=400)![image.png](https://cdn.nlark.com/yuque/0/2022/png/85771/1656870986827-876537bf-0af7-41ae-8380-4d306b6386ba.png#clientId=ua3ec6d23-dcde-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=88&id=u237c4539&margin=%5Bobject%20Object%5D&name=image.png&originHeight=208&originWidth=1168&originalType=binary&ratio=1&rotation=0&showTitle=false&size=69966&status=done&style=none&taskId=ua3cc196d-095a-4c33-9baf-d52a5d700c1&title=&width=495)
+From: [https://twitter.com/Una/status/1534810064225280001](https://twitter.com/Una/status/1534810064225280001)
+### 技术热闻
+W3C to become a public-interest non-profit organization
+[https://www.w3.org/2022/06/pressrelease-w3c-le.html.en](https://www.w3.org/2022/06/pressrelease-w3c-le.html.en)
+[https://www.w3.org/2022/06/pressrelease-w3c-le.html.zh](https://www.w3.org/2022/06/pressrelease-w3c-le.html.zh)
+The mission of the World Wide Web Consortium (W3C) is to lead the Web to its full potential by creating technical standards and guidelines to ensure that the Web remains open, accessible, and interoperable for everyone around the globe.
+
+WebXR 现状与未来
+[https://mp.weixin.qq.com/s/QfQACARN3lMgSiqErfFw3A](https://mp.weixin.qq.com/s/QfQACARN3lMgSiqErfFw3A)
+围绕 “WebXR 现状与未来” 重点探讨当下利用现有的 API 能够构建哪些应用以及即将推出的新特性。
+
+Asked and answered: the results for the 2022 Developer survey are here!
+[https://stackoverflow.blog/2022/06/22/asked-and-answered-the-results-for-the-2022-developer-survey-are-here/](https://stackoverflow.blog/2022/06/22/asked-and-answered-the-results-for-the-2022-developer-survey-are-here/)
+62% of regular Stack Overflow users visit the same question multiple times in a three-month period.
+
+GitLab architecture overview
+[https://docs.gitlab.com/ee/development/architecture.html](https://docs.gitlab.com/ee/development/architecture.html)
+New versions of GitLab are released from stable branches, and the main branch is used for bleeding-edge development.
+
+### 大前端
+#### CSS
+The case for using Sass in 2022
+[https://blog.mayank.co/the-case-for-using-sass-in-2022](https://blog.mayank.co/the-case-for-using-sass-in-2022)
+I don't think we are at a point where vanilla CSS can replace Sass yet. At best, the role of Sass has changed to help make better use of modern CSS.
+
+The Complete Guide to the Dark Mode Toggle
+[https://ryanfeigenbaum.com/dark-mode/](https://ryanfeigenbaum.com/dark-mode/)
+This complete guide to the dark mode toggle includes best practices for implementing a color mode switcher on your website using custom variables, prefers-color-scheme, and more, all with a very pretty demo! | 核心还是 “Define dark and light palettes with CSS variables”
+
+How to make absolutely any app look like a macOS app
+[https://evilmartians.com/chronicles/how-to-make-absolutely-any-app-look-like-a-macos-app](https://evilmartians.com/chronicles/how-to-make-absolutely-any-app-look-like-a-macos-app)
+In this article, we’ll analyze this question and look at some practical ways you can adopt the design conventions of macOS apps in your own apps. | 如何让你的应用更像 Mac 应用
+
+Start using modern CSS today
+[https://preset-env.cssdb.org/](https://preset-env.cssdb.org/)
+
+#### JS
+千万不要用JSON.stringify()去实现深拷贝！有巨坑！！
+[https://juejin.cn/post/7113829141392130078](https://juejin.cn/post/7113829141392130078)
+看看JSON.stringify有什么场景不能深拷贝。
+
+#### Vue
+Vue 2.7 "Naruto" Released
+[https://blog.vuejs.org/posts/vue-2-7-naruto.html](https://blog.vuejs.org/posts/vue-2-7-naruto.html)
+Today we are happy to announce that Vue 2.7 "Naruto" has been released!
+
+Evan You Tells React Team: You Should Recommend Vite over CRA for React Developers
+[https://levelup.gitconnected.com/evan-you-tells-react-team-you-should-recommend-vite-over-create-react-app-for-react-developers-e73aa4a789f](https://levelup.gitconnected.com/evan-you-tells-react-team-you-should-recommend-vite-over-create-react-app-for-react-developers-e73aa4a789f)
+A war between React and Vue: Battle of Vite.
+
+#### React
+React团队最近都在忙啥呢？
+[https://juejin.cn/post/7113739374201684005](https://juejin.cn/post/7113739374201684005)
+[React官方博客](https://link.juejin.cn/?target=https%3A%2F%2Freactjs.org%2Fblog%2F2022%2F06%2F15%2Freact-labs-what-we-have-been-working-on-june-2022.html)最近发布了一篇文章，介绍了团队当前工作的方向。本文让我们来了解React接下来工作的重心，主要包括三方面的内容：底层特性、优化相关、文档相关。
+
+如何自定义hook？
+[https://www.robinwieruch.de/react-custom-hook/](https://www.robinwieruch.de/react-custom-hook/)
+实例结合教你自定义hook，文末有一些常用自定义hook的链接。
+
+You Might Not Need an Effect
+[https://beta.reactjs.org/learn/you-might-not-need-an-effect](https://beta.reactjs.org/learn/you-might-not-need-an-effect)
+Effects are an escape hatch from the React paradigm. They let you “step outside” of React and synchronize your components with some external system like a non-React widget, network, or the browser DOM. | 新版文档看起来更舒服
+
+Getting Started with React Virtuoso
+[https://virtuoso.dev/](https://virtuoso.dev/)
+React Virtuoso is a family of powerful yet easy-to-use React components that can render enormous data sets.
+
+#### Git
+一个让 git clone 提速几十倍的小技巧
+[https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247484705&idx=1&sn=ee5b35736795d35db26428baf1072481](https://mp.weixin.qq.com/s?__biz=Mzg3OTYzMDkzMg==&mid=2247484705&idx=1&sn=ee5b35736795d35db26428baf1072481)
+通过加上 --depth 会只下载一个 commit，内容少了很多，下载的时间也上去了。并分析了git为什么可以下载单个commit。
+
+#### Performance
+一次接口响应时间过长的性能分析及排查过程
+[https://juejin.cn/post/7108873657589432328](https://juejin.cn/post/7108873657589432328)
+本次就压测过程中发现响应时间过长的一次排查分析过程，在遇到压测时响应时间过长时可以从服务器 CPU 和内存、数据库 CPU 和内存、应用程序代码、数据库索引及配置等方向进行排查。
+
+#### WebAssembly
+WebAssembly生态及关键技术综述
+[https://mp.weixin.qq.com/s/ZZbRRPTYAu8qUmLwKCs6ew](https://mp.weixin.qq.com/s/ZZbRRPTYAu8qUmLwKCs6ew)
+主要以全局视角论述 WebAssembly 技术生态发展情况以及其中涉及到的关键技术。是建立完整技术认知和体系的综述性文章，文章链接较多，建议在 PC 上访问阅读。
+
+#### RN
+react-native-mmkv
+[https://github.com/mrousavy/react-native-mmkv](https://github.com/mrousavy/react-native-mmkv)
+react-native-mmkv自称速度是异步存储的 30 倍的开源代码。
+
+[Goodbye, useEffect? David Khourshid's Reactathon Talk](https://www.youtube.com/watch?v=HPoC-k7Rxwo)（youtobe视频）在线ppt：[https://slides.com/davidkhourshid/goodbye-useeffect#/4/0/0](https://slides.com/davidkhourshid/goodbye-useeffect#/4/0/0)
+状态管理创始人David Khourshid举例说明了使用event handlers和状态机可以简化处理Effects。对比一些，尽管在某些场景下使用useEffect并不合适，但还是费尽心机的用了useEffect的情况。
+
+- useEffect is for synchornization
+- state transitions trigger effects
+- effects go in event handers
+- Render-as-you-fetch（suspense）
+- Model effects with state machines 
+
+#### 组件库
+折叠面板组件的设计与实现
+[https://mp.weixin.qq.com/s/uO-DI4MjGHjiwnJBYLz3gg](https://mp.weixin.qq.com/s/uO-DI4MjGHjiwnJBYLz3gg)
+一起了解 NutUI 中折叠面板 Collapse 的实现与设计，以及在开发过程中学习到的新知识点。
+
+#### 低代码
+星夜搭建平台结合微前端在火山引擎官网上的实践
+[https://mp.weixin.qq.com/s/gT8vxweZPYm8f5YCi5u9mg](https://mp.weixin.qq.com/s/gT8vxweZPYm8f5YCi5u9mg)
+内容以支持火山引擎官网建设成果，阐述了「星夜」搭建平台与当前主流搭建平台的不同设计思路。同时，还介绍了搭建平台与微前端如何结合，以解决复杂场景下的多种解决方案融合思路。
+
+微服务低代码Serverless平台(星链)的应用实践
+[https://mp.weixin.qq.com/s/XvliIkOwYIq4SMPNpsE4vA](https://mp.weixin.qq.com/s/XvliIkOwYIq4SMPNpsE4vA)
+本文介绍了星链的功能、核心概念、应用场景、优势和主要产品功能，简单总结来说，星链是一个微服务低代码Serverless平台，用户通过统一的Web界面完成可视化微服务(VMS)的开发、调试、构建、测试、部署完整流程，以可视化、组件编排方式低代码开发微服务，以声明式进行Serverless部署，快速交付如服务前端的后端(BFF)、服务流程编排、异步消息处理、定时任务、运营后台、工作流程自动化、临时性需求等场景化、定制化业务研发需求，降本增效。
+
+#### Babel
+再谈 babel 7.18.0 引发的问题
+[https://mp.weixin.qq.com/s/4TqSNvDtwH508A-fTnR-lQ](https://mp.weixin.qq.com/s/4TqSNvDtwH508A-fTnR-lQ)
+babel 版本从 7.17.x 升级到了 7.18.0，按 semver 来说这应该是一个兼容性的变更，但是却引发出了各种问题，在蚂蚁域内出现了regeneratorRuntime 找不到、构建产物体积变大等等问题，这篇文档会详细分析下一下这些问题的原因及解决方法。
+
+### 设计
+视频搜索体验价值论
+[https://mp.weixin.qq.com/s/psANM218bgauccF71aZXtg](https://mp.weixin.qq.com/s/psANM218bgauccF71aZXtg)
+在近两年各大视频内容巨头纷纷发力搜索的态势下，百度搜索正通过视频化战略转型迎接挑战。本文将带你了解设计师怎样在搜索视频化的过程中发挥自己价值。
+
+一个案例讲解设计价值
+[http://www.mysecretrainbow.com/blog/23828.html](http://www.mysecretrainbow.com/blog/23828.html)
+借用一个大家都耳熟能详的故事：福特在设计汽车之前，到处去问人们“需要一个什么样的更好的交通工具？”，几乎所有人的答案都是 ── 一匹“更快的马”。
+
+### 发现
+Floating Point Math
+[https://0.30000000000000004.com/](https://0.30000000000000004.com/)
+Computers can only natively store integers, so they need some way of representing decimal numbers. This representation is not perfectly accurate. This is why, more often than not, 0.1 + 0.2 != 0.3.
+
+### 其它
+科技爱好者周刊（第 212 期）：人生不短[
+](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)[https://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html](https://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)
+真正的问题不是人生短暂，而是我们浪费了太多时间。
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#crop=0&crop=0&crop=1&crop=1&height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14325&status=done&style=none&title=&width=746)
+
+
+欢迎加入，一起共建「前端小报」
+

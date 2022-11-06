@@ -1,0 +1,174 @@
+![WechatIMG26.png](https://cdn.nlark.com/yuque/0/2022/png/85771/1660512537350-f264af96-dc84-459b-a5b6-e9a67544d911.png#clientId=u20d0e75e-1555-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=301&id=ua877254a&margin=%5Bobject%20Object%5D&name=WechatIMG26.png&originHeight=1200&originWidth=1198&originalType=binary&ratio=1&rotation=0&showTitle=false&size=471969&status=done&style=none&taskId=u59e829a1-f0bd-4590-abe0-67dae861826&title=&width=300)
+Source: [A brief history of the numeric keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
+### 技术热闻
+Will low and no code tools ever truly disrupt tech development?
+[https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/](https://stackoverflow.blog/2022/08/10/will-low-and-no-code-tools-ever-truly-disrupt-tech-development/)
+Admittedly, low code and no code both seemed like ridiculous concepts at first. Low and no code couldn’t possibly mean little to no code. It means little to no visible code. The broader question remains – how will low and no code tools shake up tech development? After countless conversations, I concluded that…drumroll…it won’t.
+
+"The best thing we can do today to JavaScript is to retire it" says JSON creator Douglas Crockford
+[https://devclass.com/2022/08/04/retire_javascript_says-json-creator-douglas-crockford/](https://devclass.com/2022/08/04/retire_javascript_says-json-creator-douglas-crockford/)
+[https://evrone.com/douglas-crockford-interview](https://evrone.com/douglas-crockford-interview)
+中文：[https://mp.weixin.qq.com/s/5SxD5SgUPo1QXt_E_P6iZQ](https://mp.weixin.qq.com/s/5SxD5SgUPo1QXt_E_P6iZQ)
+I had a minor success with ES5. But since then, there has been strong interest in further bloating the language instead of making it better. So JavaScript, like the other dinosaur languages, has become a barrier to progress. We should be focused on the next language, which should look more like E than like JavaScript.
+
+### 大前端
+#### CSS
+Recreating “The Effects of Nuclear Weapons” for the Web
+[https://meyerweb.com/eric/thoughts/2022/08/09/recreating-the-effects-of-nuclear-weapons-for-the-web/](https://meyerweb.com/eric/thoughts/2022/08/09/recreating-the-effects-of-nuclear-weapons-for-the-web/)
+Oh CSS Grid, how I adore thee.  And you too, CSS box alignment.  You made this little bit of historical recreation so easy, it felt like cheating.
+
+#### JavaScript
+一文彻底搞懂迭代器与生成器函数
+[https://mp.weixin.qq.com/s/udrR5WGlAXNm1dLLCGf19w](https://mp.weixin.qq.com/s/udrR5WGlAXNm1dLLCGf19w)
+本文探讨迭代器/生成器是什么，为什么会有迭代器，生成器解决什么样的问题；以实际例子阐述迭代器与生成器，以便更好的理解两者的关系和区别。
+
+#### Svelte
+Meet Skeleton: Svelte + Tailwind For Reactive UIs
+[https://www.smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/](https://www.smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/)
+The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.
+
+#### Vue
+Vue团队又出新作：现代前端测试框架
+[https://mp.weixin.qq.com/s/SLOHPJnV8TatlTY6WQHwPA](https://mp.weixin.qq.com/s/SLOHPJnV8TatlTY6WQHwPA)
+vitest 定位是个高性能的前端单元测试框架，发现其实现在社区中关于 vitest 的一些文章介绍还是比较少的，因此这篇文章中笔者会给大家介绍一下 vitest 这一测试框架，以及从 jest 到 vitest 迁移过程中的一些踩坑记录
+
+#### React
+你必须避免的 10 个 React 错误用法
+[https://juejin.cn/post/7131270450918719519](https://juejin.cn/post/7131270450918719519)
+本文是作者在实际工作经验中总结提炼出的错误使用 React 的一些方式，可以参考看看，自己的写法有没有同样的问题。
+
+Reactime
+[https://reactime.io/](https://reactime.io/)
+Reactime is an open source Chrome developer tool for time travel debugging and performance monitoring in React applications.
+
+#### Node.js
+NodeParty 分享
+[https://www.yuque.com/antfe/featured/gi7ker](https://www.yuque.com/antfe/featured/gi7ker)
+支付宝体验科技举办的 NodeParty 已于 8 月 8 日 在线直播，本次 NodeParty 的分享 PPT 和回顾视频。
+
+#### MPA
+Astro 1.0 - MPA framework
+[https://astro.build/blog/astro-1/](https://astro.build/blog/astro-1/)
+Astro is an MPA framework. We are thrilled to announce Astro v1.0: a web framework for building fast, content-focused websites.
+
+从 Islands Architecture 看前端有多卷 | Astro Islands
+[https://mp.weixin.qq.com/s/7Ej9P84j48S04nWWl0y-Og](https://mp.weixin.qq.com/s/7Ej9P84j48S04nWWl0y-Og)
+[https://docs.astro.build/en/concepts/islands/](https://docs.astro.build/en/concepts/islands/)
+虽然孤岛架构下的全栈框架有众多好处（首屏渲染快、TTI短），但并不是万能的。他比较适合「对首屏渲染速度、TTI要求高，但整体页面交互不复杂」的场景。对于「重交互性」的Web应用（比如「后台管理系统」、「社区」），更适合传统的SSR方案（比如Next.js）或CSR方案（直接使用前端框架）。
+
+#### 跨端
+干货 | 携程小程序生态之Taro跨端解决方案
+[https://mp.weixin.qq.com/s/iT05ZXPVYFuCQgZZF9Zu5w](https://mp.weixin.qq.com/s/iT05ZXPVYFuCQgZZF9Zu5w)
+为了解决一套代码多端运行的诉求，携程小程序框架不断调整、升级，逐渐形成了携程Taro跨端解决方案。目前，Taro跨端解决方案已支持一套代码运行在5类小程序（微信、支付宝、字节跳动、百度、快手）平台。使用此方案进行开发的Taro小程序项目灵活度和复用性很高，可以按需选用Taro模块组合成一个完整的Taro项目。
+
+#### 监控
+前端监控系列1｜ 字节的前端监控 SDK 是怎样设计的
+[https://mp.weixin.qq.com/s/-eEMSn2WpDiMbNSBgY3-pg](https://mp.weixin.qq.com/s/-eEMSn2WpDiMbNSBgY3-pg)
+本文主要探讨设计前端监控SDK，怎么设计，设计时需要思考哪些方面的问题，并给出了解决方案，具有参考意义。
+
+#### 构建
+Bundle-less 的思考和实践分享
+[https://mp.weixin.qq.com/s/nk5SN8AKwyFkUTEOiLCBdQ](https://mp.weixin.qq.com/s/nk5SN8AKwyFkUTEOiLCBdQ)
+本文从拆包数量、no-bundle 服务和依赖产物的模块化分发三个角度介绍了 Bundle-less 目前的具体概念及应用
+
+#### 微前端
+将微前端做到极致-无界方案
+[https://mp.weixin.qq.com/s/hRR_sp3w_dgnUbdNXMuL7w](https://mp.weixin.qq.com/s/hRR_sp3w_dgnUbdNXMuL7w)
+本文提供一种基于 iframe 的全新微前端方案，采用 webcomponent + iframe 的来加载子应用。
+
+#### Chrome
+What's New In DevTools (Chrome 105)
+[https://developer.chrome.com/blog/new-in-devtools-105/](https://developer.chrome.com/blog/new-in-devtools-105/)
+Chrome DevTools 团队介绍了 Chrome 105 的 DevTools  新功能
+
+- Largest Contentful Paint (LCP) in the Performance insights panel
+- Identify flashes of text (FOIT, FOUT) as potential root causes for layout shifts
+- Top layer badge in the Elements panel
+- ...
+
+#### 工具
+Grex
+[https://pemistahl.github.io/grex-js/](https://pemistahl.github.io/grex-js/)
+根据输入生成正则表达式的网站，用起来还差点意思，但是辅助写正则很可。
+
+Netlify
+[https://www.netlify.com/](https://www.netlify.com/)
+Netlify is an all-in-one platform for automating modern web projects. Replace your hosting infrastructure, continuous integration, and deployment pipeline with a single workflow.
+
+Nativefier
+[https://github.com/nativefier/nativefier](https://github.com/nativefier/nativefier)
+Make any web page a desktop application
+
+React Native Testing Library
+[https://callstack.github.io/react-native-testing-library/](https://callstack.github.io/react-native-testing-library/)
+The React Native Testing Library (RNTL) is a lightweight solution for testing React Native components.
+
+### 产品
+语雀的源起、定位与世界观
+[https://mp.weixin.qq.com/s/xd7uAsivYE1PJRfKKfeTBw](https://mp.weixin.qq.com/s/xd7uAsivYE1PJRfKKfeTBw)
+可以分为三个部分。第一个是在团队侧，语雀是怎么在一个大公司内部去做一个创新产品，尤其发起方还是技术平台。第二在产品层面，我们聊了语雀的世界观，就是为什么要做这个产品，想要去解决什么样的问题，对它的定位是什么？因为语雀它不是一个消遣娱乐的东西，它是想要基于这个空间来做知识结构性的产品。就是感觉有些是在逆时代潮流而动。最后在市场侧，玉伯和镜同也分享了他们怎么去定义目标用户、市场规模的事情。其实，语雀最大的对手是手机备忘录。
+
+### 行业资讯
+Skilling for success: How demand for development skills is changing
+[https://stackoverflow.blog/2022/08/12/the-overflow-138-social-learning-for-engineers/](https://stackoverflow.blog/2022/08/12/the-overflow-138-social-learning-for-engineers/)
+
+- With so many companies allowing employees to work from home, it’s no surprise that we’ve seen those same companies start [moving their tech stacks into cloud computing services](https://stackoverflow.blog/2021/09/02/pandemic-lockdowns-accelerated-cloud-migration-by-three-to-four-years/). That’s the number one change that we’ve seen over the past two years
+- The age of the polyglot developer is passing, and companies prioritize hiring developers who specialize in the technologies most important to their goals.
+- Once a developer has three years of experience, it’s much more about the quality of their work. When you have the data to present to a company, it’s easy to show that the most suitable candidates for their roles aren’t necessarily those with the longest experience but those with specific traits and accomplishments that closely match their needs.
+
+美团抖音到店之争：错位竞争，格局无忧，共谋增量——本地生活到店行业专题
+[http://www.logclub.com/front/lc_report/get_report_info/1070-187](http://www.logclub.com/front/lc_report/get_report_info/1070-187)
+[美团抖音到店之争：错位竞争，格局无忧，共谋增量——本地生活到店行业专题_罗戈网_sLVx0siwxCLy.pdf](https://weapon.yuque.com/attachments/yuque/0/2022/pdf/85771/1660487991402-ae7226be-d675-4399-8eba-1a9d1d003a6c.pdf?_lake_card=%7B%22src%22%3A%22https%3A%2F%2Fweapon.yuque.com%2Fattachments%2Fyuque%2F0%2F2022%2Fpdf%2F85771%2F1660487991402-ae7226be-d675-4399-8eba-1a9d1d003a6c.pdf%22%2C%22name%22%3A%22%E7%BE%8E%E5%9B%A2%E6%8A%96%E9%9F%B3%E5%88%B0%E5%BA%97%E4%B9%8B%E4%BA%89%EF%BC%9A%E9%94%99%E4%BD%8D%E7%AB%9E%E4%BA%89%EF%BC%8C%E6%A0%BC%E5%B1%80%E6%97%A0%E5%BF%A7%EF%BC%8C%E5%85%B1%E8%B0%8B%E5%A2%9E%E9%87%8F%E2%80%94%E2%80%94%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB%E5%88%B0%E5%BA%97%E8%A1%8C%E4%B8%9A%E4%B8%93%E9%A2%98_%E7%BD%97%E6%88%88%E7%BD%91_sLVx0siwxCLy.pdf%22%2C%22size%22%3A6067751%2C%22type%22%3A%22application%2Fpdf%22%2C%22ext%22%3A%22pdf%22%2C%22source%22%3A%22%22%2C%22status%22%3A%22done%22%2C%22mode%22%3A%22title%22%2C%22download%22%3Atrue%2C%22taskId%22%3A%22ub159019d-8b1f-4e47-a800-abde530b3c6%22%2C%22taskType%22%3A%22upload%22%2C%22__spacing%22%3A%22both%22%2C%22id%22%3A%22ue4a50356%22%2C%22margin%22%3A%7B%22top%22%3Atrue%2C%22bottom%22%3Atrue%7D%2C%22card%22%3A%22file%22%7D)
+
+一图读懂 | 中国物流集团“十四五”战略规划
+[https://www.logclub.com/m/articleInfo/NTE5NzU=](https://www.logclub.com/m/articleInfo/NTE5NzU=)
+
+### 设计
+A brief history of the numeric keypad
+[https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad](https://www.doc.cc/articles/a-brief-history-of-the-numeric-keypad)
+There is a multitude of factors that go into the design decisions such as technology and its limitations, ergonomics, user perception and familiarity with existing formats. Look at your Android or iPhone apps. You’ll notice that both the phone and calculator layouts are similar to the ones invented a century ago.
+
+Ucan设计论坛：探索设计产业数字化新趋势
+[https://mp.weixin.qq.com/s/035K44R280_ORp_QrU3SNg](https://mp.weixin.qq.com/s/035K44R280_ORp_QrU3SNg)
+分享了数字化在各自设计领域的助益以及针对数字化的新展望。
+
+【ADT】B端产品设计中的「用户角色」
+[https://mp.weixin.qq.com/s/aVa25dvP_U8xiXVo1iMD_A](https://mp.weixin.qq.com/s/aVa25dvP_U8xiXVo1iMD_A)
+对于C端产品，我们常常绘制用户画像进行分析；而B端产品由于特有的复杂业务性质，用户更多通过「角色」的概念与系统进行链接。因而B端用户角色的分析对于产品设计有着更大的意义。
+「当(某角色)用户使用产品某项功能的时候，他们是为了完成某个特定的任务(到达某种目标)」
+一旦理解了这句话，并在设计过程中切实围绕场景、角色、目标去深入分析，我们的设计方案将会更有效地解决体验问题、提高业务效率。
+
+关于“薅羊毛”那些事儿——百度果园长线活动设计思考
+[https://mp.weixin.qq.com/s/EfglyIGFd9QZyYYTu7RKOg](https://mp.weixin.qq.com/s/EfglyIGFd9QZyYYTu7RKOg)
+本文以百度果园为例，从长线运营增长视角分3个方面分享运营活动玩法如何设计，如何帮助百度APP持续提升用户活跃和用户留存。
+
+Redesigning ESLint
+[https://eslint.org/blog/2022/08/redesigning-eslint/](https://eslint.org/blog/2022/08/redesigning-eslint/)
+A brief insight into ESLint's recent brand refresh and website redesign.
+
+### 发现
+So you want to write a package manager
+[https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
+Sam Boyer saying dependency managers being a human problem
+
+standardebooks
+[https://standardebooks.org/](https://standardebooks.org/)
+Free and liberated ebooks, carefully produced for the true book lover.
+
+### 启发
+雷军2022年度最新演讲：熬过绝望低谷，你便无人能敌 
+[https://www.sohu.com/a/576060273_358836](https://www.sohu.com/a/576060273_358836)
+今年的8月11日，雷军举办了自己的第三次主题演讲：《永远相信美好的事情即将发生》
+
+我认为前端的职责可能需要重新划分
+[https://mp.weixin.qq.com/s/-dfgxRcx3roYDP1JKyCR1w](https://mp.weixin.qq.com/s/-dfgxRcx3roYDP1JKyCR1w)
+我希望将来，人们会考虑将 Web 客户端开发中的这些新职责分开。让我起名的话，我会称之为“Web UI”和“Web Core”。
+
+程序员如何寻找技术突破、体现技术价值？
+[https://mp.weixin.qq.com/s/Jo_oXV9PtUA4lNGp0IH2fQ](https://mp.weixin.qq.com/s/Jo_oXV9PtUA4lNGp0IH2fQ)
+本文作者作为鹅厂行家平台的咨询老师以及前端技术专家，总结了两个大家关心的问题，很值得一读。
+![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605930034828-7fc81343-651f-4a15-8465-eebe5a23cf61.png#crop=0&crop=0&crop=1&crop=1&height=31&id=C5Hpa&margin=%5Bobject%20Object%5D&name=image.png&originHeight=90&originWidth=2186&originalType=binary&ratio=1&rotation=0&showTitle=false&size=14325&status=done&style=none&title=&width=746)
+
+
+欢迎加入，一起共建「前端小报」
+
