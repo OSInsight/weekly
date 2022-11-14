@@ -11,6 +11,15 @@
 
 ## 目录
 ### 2022
+[第 103 期 - 1114 Thirteen Years of Go](./src/2022/weekly/no103-1114.md)
+
+推荐：
+- 重新理解 Web
+- 前端框架的趋势与实践
+- Announcing Rome v10
+- Temporal API: JavaScript Dates, but Better
+- Migrating from Monaco Editor to CodeMirror
+
 [第 102 期 - 1107 Web3 is not the web at all](./src/2022/weekly/no102-1107.md)
 
 推荐：
