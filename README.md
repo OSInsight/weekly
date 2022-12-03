@@ -11,6 +11,29 @@
 
 ## 目录
 ### 2022
+[第 105 期 11/28: libp2p & JS Survey & 三维信息技术革命](./src/2022/weekly/no105-1128.md)
+
+推荐:
+- 跨端开发浪潮中的变与不变
+- 为iframe正名，你可能并不需要微前端
+- 我眼中的VR、AR和Metaverse：三维信息技术革命
+- A Guide To Image Optimization On Jamstack Sites
+- Creating a 2D physics engine from scratch in Javascript
+- How Web Apps Became Decoys To Get You To Install Native Apps
+
+
+[第 104 期 11/21: The state of open source software](./src/2022/weekly/no104-1121.md)
+
+推荐:
+- css timeline
+- Hybrid 远程调试的前世今生
+- TypeScript satisfies operator
+- 2022年语言和框架我们值得关注什么
+- 方寸之间纵览世界-浅析数字时代地图设计
+- How Xcode 14 unintentionally increases app size
+- Browser Fingerprinting: Techniques, Use Cases & Best Practices
+
+
 [第 103 期 - 1114 Thirteen Years of Go](./src/2022/weekly/no103-1114.md)
 
 推荐：
