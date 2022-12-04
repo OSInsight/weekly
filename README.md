@@ -46,24 +46,24 @@
 [第 102 期 - 1107 Web3 is not the web at all](./src/2022/weekly/no102-1107.md)
 
 推荐：
-- 热闻 | Trends and Insights from GitHub 2022
-- CSS | OKLCH in CSS: why we moved from RGB and HSL
-- Node.js | 面向云原生的 JavaScript 容器方案
-- 构建 | Is Turbopack really 10x Faster than Vite？
-- 浏览器 | Chrome 最近带来了哪些有意思的新东西
-- 设计 | 千万级小说产品，会员全链路设计复盘
-- 低代码 | Build responsive Figma-to-React components with almost no code
+- 热闻 - Trends and Insights from GitHub 2022
+- CSS - OKLCH in CSS: why we moved from RGB and HSL
+- Node.js - 面向云原生的 JavaScript 容器方案
+- 构建 - Is Turbopack really 10x Faster than Vite？
+- 浏览器 - Chrome 最近带来了哪些有意思的新东西
+- 设计 - 千万级小说产品，会员全链路设计复盘
+- 低代码 - Build responsive Figma-to-React components with almost no code
 
 [第 101 期 - 1031 Turbopack – The Successor to Webpack](./src/2022/weekly/no101-1031.md)
 
 推荐：
-- Android | Android Dev Summit ‘22
-- 音视频 | 为 Chromium 实现 HEVC 硬解
-- CSS | Is There Too Much CSS Now?
-- Wasm | WebAssembly 的核心语言特性与未来发展
-- KMM | 一文快速带你了解 KMM 、 Compose 和 Flutter 的现状
-- 行业 | 10 years of insights from Think with Google
-- 设计 | When life gives you lemons, write better error messages
+- Android - Android Dev Summit ‘22
+- 音视频 - 为 Chromium 实现 HEVC 硬解
+- CSS - Is There Too Much CSS Now?
+- Wasm - WebAssembly 的核心语言特性与未来发展
+- KMM - 一文快速带你了解 KMM 、 Compose 和 Flutter 的现状
+- 行业 - 10 years of insights from Think with Google
+- 设计 - When life gives you lemons, write better error messages
 
 本期是前端小报第 101 期，过去小报更多的是收集和整理，后续在保持传统的同时，会陆续产出一些相关总结、实践和文章分享，欢迎参与，一起见证技术革新和行业变迁。
 
