@@ -5,9 +5,9 @@
   - weekly 周刊
   - category 年度分类汇总
 
-欢迎参与，形式不限，可以推荐精彩好文（加入微信群 or 提 issue or PR 等），也可以对周刊的升级改进提出建议和反馈。
+欢迎参与，形式不限，可以推荐精彩好文（关注公众号 or 提 issue or PR 等），也可以对周刊的升级改进提出建议和反馈。
 
-<img src="https://cdn.nlark.com/yuque/0/2022/png/85771/1667749133028-aa9482ce-ed9e-4f0e-97be-c199ddc49b14.png" alt="微信七天群" width="200">
+<img src="https://cdn.nlark.com/yuque/0/2022/jpeg/85771/1670424197057-6dacae97-2c10-44db-a2a7-233e764b8c7e.jpeg" alt="OpenSourceInsight" width="200">
 
 ## 目录
 ### 2022
