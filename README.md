@@ -1,4 +1,6 @@
 # 前端周刊
+> 持续建设中...
+
 前端周刊是一款面向泛前端同学汇集技术热闻、大前端技术、产品资讯、设计案例以及精彩发现等内容的周刊，目标是为大家带来更多优质的大前端技术输入。
 - 发刊时间：每周一早上 10 点前
 - 刊物内容：
@@ -11,6 +13,18 @@
 
 ## 目录
 ### 2022
+[第 106 期 12/05 New to the web platform in November](./src/2022/weekly/no106-1205.md)
+
+推荐：
+- CSS 方案 2022
+- UI 智能化的原理和未来
+- App Store Awards 2022
+- Render Models at LinkedIn
+- 傻瓜方式分析前端应用的体积
+- the Ultimate Guide to Web Workers
+- Migrating VS Code to Process Sandboxing
+- The large, small, and dynamic viewport units
+
 [第 105 期 11/28: libp2p & JS Survey & 三维信息技术革命](./src/2022/weekly/no105-1128.md)
 
 推荐:
