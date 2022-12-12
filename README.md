@@ -13,6 +13,17 @@
 
 ## 目录
 ### 2022
+[第 107 期 12/12 ViteConf & State of CSS 2022](./src/2022/weekly/no107-1212.md)
+
+推荐：
+- ViteConf 2022
+- Introducing passkeys in Chrome
+- Remote Development Even Better
+- Reduce Image Sizes by Removing Metadata
+- xNN：蚂蚁端侧深度学习框架
+- 精读《磁贴布局 - 功能分析》
+- 京东低代码平台：水滴表格2.0 正式版来啦
+
 [第 106 期 12/05 New to the web platform in November](./src/2022/weekly/no106-1205.md)
 
 推荐：
