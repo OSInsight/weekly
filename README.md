@@ -9,7 +9,7 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 
 欢迎参与，形式不限，可以推荐精彩好文（关注公众号 or 提 issue or PR 等），也可以对周刊的升级改进提出建议和反馈。
 
-<img src="https://cdn.nlark.com/yuque/0/2022/jpeg/85771/1670424197057-6dacae97-2c10-44db-a2a7-233e764b8c7e.jpeg" alt="OpenSourceInsight" width="200">
+![OSInsight](https://cdn.staticaly.com/gh/luckybai/static@main/osinsight/osinsight_qrcode.6wk4o6bn6v7k.webp)
 
 ## 目录
 ### 2022
