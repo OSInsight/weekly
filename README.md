@@ -1,11 +1,9 @@
 # Web 技术周刊
-> 持续建设中...
+> 站点持续建设中...
 
 Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技术、产品资讯、设计案例以及精彩发现等内容的周刊，目标是为大家带来更多优质的大前端技术输入。
 - 发刊时间：每周一早上 10 点前
-- 刊物内容：
-  - weekly 周刊
-  - category 年度分类汇总
+- 关于 issue: 目前主要是《一图解读系列》，后续会有其它内容，欢迎了解
 
 欢迎参与，形式不限，可以推荐精彩好文（关注公众号 or 提 issue or PR 等），也可以对周刊的升级改进提出建议和反馈。
 
@@ -14,6 +12,15 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 ## 目录
 
 ### 2023
+
+[第 114 期 02_13 GMTC & QCon 2023](/src/2023/weekly/no114.md)
+- GMTC & QCon 2023
+- Vue.js Nation Conference 2023
+- Cloudflare Workers 和微前端：为彼此而生
+- The evolution of Facebook’s iOS app architecture
+- The Future (and the Past) of the Web is Server Side Rendering
+- How to Build a GPT-Powered Customer Support Bot for Discord with Node.js
+
 [第 113 期 02/06 10 Web Development Trends in 2023](./src/2023/weekly/no113.md)
 - PWA 技术在游戏落地中的探索
 - Updates from the 94th TC39 meeting
