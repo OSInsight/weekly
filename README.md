@@ -13,7 +13,16 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 
 ### 2023
 
-[第 114 期 02_13 GMTC & QCon 2023](/src/2023/weekly/no114.md)
+[第 115 期 02/20 Web Push 拯救 Web 凉凉 Native App？](src/2023/weekly/no115.md)
+- CSS | Try out CSS Nesting today
+- JS | Use Maps More and Objects Less
+- JS | Writing Javascript without a build system
+- Web Components | Declarative Shadow DOM
+- Vue | Vue.js 2023 年最新路线图
+- App | Web Push 拯救 Web 凉凉 Native App？
+- 智能化 | 前端智能化在淘宝的2022实践总结
+
+[第 114 期 02/13 GMTC & QCon 2023](/src/2023/weekly/no114.md)
 - GMTC & QCon 2023
 - Vue.js Nation Conference 2023
 - Cloudflare Workers 和微前端：为彼此而生
