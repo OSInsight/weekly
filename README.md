@@ -13,14 +13,22 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 
 ### 2023
 
+[第 116 期 02_27 Planning for AGI and beyond](./src/2023/weekly/no116.md)
+- 深入浅出 OpenSumi 协同编辑的原理
+- ChatGPT的炼成方式和在哈啰营销落地能力
+- WASM 在动画引擎中的设计优化
+- Rewriting TypeScript in Rust?
+- Let's build a Chrome extension that steals everything
+- Easing curves, and better CSS transitions and animations
+
 [第 115 期 02/20 Web Push 拯救 Web 凉凉 Native App？](src/2023/weekly/no115.md)
-- CSS | Try out CSS Nesting today
-- JS | Use Maps More and Objects Less
-- JS | Writing Javascript without a build system
-- Web Components | Declarative Shadow DOM
-- Vue | Vue.js 2023 年最新路线图
-- App | Web Push 拯救 Web 凉凉 Native App？
-- 智能化 | 前端智能化在淘宝的2022实践总结
+- CSS - Try out CSS Nesting today
+- JS - Use Maps More and Objects Less
+- JS - Writing Javascript without a build system
+- Web Components - Declarative Shadow DOM
+- Vue - Vue.js 2023 年最新路线图
+- App - Web Push 拯救 Web 凉凉 Native App？
+- 智能化 - 前端智能化在淘宝的2022实践总结
 
 [第 114 期 02/13 GMTC & QCon 2023](/src/2023/weekly/no114.md)
 - GMTC & QCon 2023
