@@ -13,6 +13,15 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 
 ### 2023
 
+[第 117 期 03/06 You Don't Need a Build Step](src/2023/weekly/no117.md)
+
+- Deno - You Don't Need a Build Step
+- 成长 - 一名业务前端的这8年
+- 设计 - 太空时代美学的设计演绎
+- 数据 - Big Tech job-switching stats
+- The Great Gaslighting of the JavaScript Era
+- THE JAVASCRIPT SITE GENERATOR REVIEW, 2023
+
 [第 116 期 02_27 Planning for AGI and beyond](./src/2023/weekly/no116.md)
 - 深入浅出 OpenSumi 协同编辑的原理
 - ChatGPT的炼成方式和在哈啰营销落地能力
