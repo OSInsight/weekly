@@ -13,6 +13,16 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 
 ### 2023
 
+[第 118 期 03/13 VisualChatGPT](src/2023/weekly/no118.md)
+
+- Why is building a UI in Rust so hard?
+- 京东小程序折叠屏适配探索
+- 2023年最新AIGC绘画水平发展
+- 闲鱼终端场景CI能力体系化建设
+- The Most Popular Node.js Frameworks in 2023
+- View Transitions API: Creating Smooth Page Transitions
+- All JavaScript and TypeScript Features of the last 3 years
+
 [第 117 期 03/06 You Don't Need a Build Step](src/2023/weekly/no117.md)
 
 - Deno - You Don't Need a Build Step
