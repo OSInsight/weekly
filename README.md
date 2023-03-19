@@ -1,5 +1,5 @@
 # Web 技术周刊
-> 站点持续建设中...
+> 站点持续建设中...近两周站点全新发布
 
 Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技术、产品资讯、设计案例以及精彩发现等内容的周刊，目标是为大家带来更多优质的大前端技术输入。
 - 发刊时间：每周一早上 10 点前
@@ -12,6 +12,14 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 ## 目录
 
 ### 2023
+
+[第 119 期 03/20 After emerging technology buzz fades](src/2023/weekly/no119.md)
+- 跨端架构下客户端侧API维护方案总结
+- Webpack 最近的任意代码漏洞是怎么回事
+- Modern Font Stacks
+- Transformers.js: Running ML Models in the Browser 
+- Emergent Abilities of Large Language Models
+- After the buzz fades: What our data tells us about emerging technology sentiment
 
 [第 118 期 03/13 VisualChatGPT](src/2023/weekly/no118.md)
 
