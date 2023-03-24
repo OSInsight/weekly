@@ -1,4 +1,4 @@
-# 第 2 期 1109 W3C WORKSHOP REPORT: WEB AND MACHINE LEARNING
+# 第 2 期 11/09 W3C WORKSHOP REPORT: WEB AND MACHINE LEARNING
 ## 行业资讯
 [高德的执念、迷思与希冀](http://www.woshipm.com/it/4248152.html)
 

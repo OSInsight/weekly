@@ -1,4 +1,4 @@
-# 第 4 期 1123 4982亿背后的前端技术—2020天猫双11前端体系大揭秘
+# 第 4 期 11/23 4982亿背后的前端技术—2020天猫双11前端体系大揭秘
 
 ![image.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1605631221702-104aeb05-a96c-4ce8-849f-5402fc465f13.png#align=left&display=inline&height=485&margin=%5Bobject%20Object%5D&name=image.png&originHeight=891&originWidth=720&size=759496&status=done&style=none&width=392)
 Source: [Programmer Humor](https://programmerhumour.tumblr.com/post/633961754778533888/google-my-saviour)

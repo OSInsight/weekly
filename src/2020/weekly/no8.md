@@ -1,4 +1,4 @@
-# 第 8 期 1221 Looking Back on 2020
+# 第 8 期 12/21 Looking Back on 2020
 ![tumblr_f7228115dbc4c4c569650fc9ac5187f7_f6358a31_640.png](https://cdn.nlark.com/yuque/0/2020/png/85771/1608475338235-df2da54e-1dbd-4a97-887d-10d3926f6b25.png#align=left&display=inline&height=283&margin=%5Bobject%20Object%5D&name=tumblr_f7228115dbc4c4c569650fc9ac5187f7_f6358a31_640.png&originHeight=565&originWidth=563&size=55849&status=done&style=none&width=282)
 
 Source: [Programmer Humor](https://programmerhumour.tumblr.com/post/634067266527543296/talk-is-cheap-documenting-is-even-cheaper)

@@ -1,4 +1,4 @@
-# 第 3 期 1116 What’s next for the Contract for the Web
+# 第 3 期 11/16 What’s next for the Contract for the Web
 ![tumblr_dfc29f6a99177ea7d440a7215f9eafe0_737953d2_640.jpg](https://cdn.nlark.com/yuque/0/2020/jpeg/85771/1605094758350-626e3eb5-77f6-4cc5-8827-e604007dad7c.jpeg#align=left&display=inline&height=503&margin=%5Bobject%20Object%5D&name=tumblr_dfc29f6a99177ea7d440a7215f9eafe0_737953d2_640.jpg&originHeight=503&originWidth=640&size=34261&status=done&style=none&width=640)
 Image source: [Programmer Humor](https://programmerhumour.tumblr.com/post/628735243419090944/c-x-o-c-c-c-m-x)
 ## 行业资讯

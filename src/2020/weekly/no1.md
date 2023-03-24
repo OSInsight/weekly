@@ -1,4 +1,4 @@
-# 第 1 期 1103 Gartner Top Strategic Technology Trends for 2021
+# 第 1 期 11/03 Gartner Top Strategic Technology Trends for 2021
 ## 📡 行业资讯
 
 【阿里】[蚂蚁打新火热：数百亿港元杠杆资金“供不应求” 券商系统被挤崩](https://m.21jingji.com/article/20201028/50c6029001aace63aaafd94a22d8ed1f.html)
