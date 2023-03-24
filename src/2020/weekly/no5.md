@@ -1,4 +1,4 @@
-# 第 5 期 - 1130 The future of web development on Apple Silicon
+# 第 5 期 1130 The future of web development on Apple Silicon
 ![tumblr_9315b190c6d744e9261126707a6f9075_3d5d28eb_640.jpg](https://cdn.nlark.com/yuque/0/2020/jpeg/85771/1606524820832-98eb01c9-dc52-4a97-a2ae-d8ad88ec9ebb.jpeg#align=left&display=inline&height=374&margin=%5Bobject%20Object%5D&name=tumblr_9315b190c6d744e9261126707a6f9075_3d5d28eb_640.jpg&originHeight=637&originWidth=640&size=74289&status=done&style=none&width=376)
 Source: [Programmer Humor](https://programmerhumour.tumblr.com/post/634527951861547008/we-do-not-know-where-we-want-to-go-but-maybe-we)
 ## 行业资讯

@@ -1,4 +1,4 @@
-# 第 7 期 - 1214 Machine Learning as a Service: Platform Top Providers
+# 第 7 期 1214 Machine Learning as a Service: Platform Top Providers
 ![tumblr_7a8b85b709cf5638c420907123eecf6a_1e417733_1280.jpg](https://cdn.nlark.com/yuque/0/2020/jpeg/85771/1606829945054-1a0011b8-9dea-4039-8069-eadcae054b2b.jpeg#align=left&display=inline&height=328&margin=%5Bobject%20Object%5D&name=tumblr_7a8b85b709cf5638c420907123eecf6a_1e417733_1280.jpg&originHeight=1313&originWidth=1080&size=273924&status=done&style=none&width=270)
 Source: [Programmer Humor](https://programmerhumour.tumblr.com/post/634369287876968449/this-is-probably-a-repost)
 ## 行业资讯

@@ -1,4 +1,4 @@
-# 第 9 期 - 1228 2020年大前端技术趋势解读
+# 第 9 期 1228 2020年大前端技术趋势解读
 ![spaghetti.jpg](https://cdn.nlark.com/yuque/0/2020/jpeg/85771/1609078233135-bcceeb8d-587b-42a9-a96b-67c8dc2526d2.jpeg#align=left&display=inline&height=375&margin=%5Bobject%20Object%5D&name=spaghetti.jpg&originHeight=500&originWidth=556&size=86367&status=done&style=none&width=417)
 Source: [Programmer Humor](https://programming-memes.com/do-you-like-spaghetti/)
 

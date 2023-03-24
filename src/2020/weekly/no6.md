@@ -1,4 +1,4 @@
-# 第 6 期 - 1207 Goodbye to Flash, we’ll see you in Rust
+# 第 6 期 1207 Goodbye to Flash, we’ll see you in Rust
 ![tumblr_ab529f0b2be580852f4c0a4a7bc8a534_66d6be6a_1280.jpg](https://cdn.nlark.com/yuque/0/2020/jpeg/85771/1606830212882-72e113b1-957b-493c-aadf-251ab1ac5480.jpeg#align=left&display=inline&height=421&margin=%5Bobject%20Object%5D&name=tumblr_ab529f0b2be580852f4c0a4a7bc8a534_66d6be6a_1280.jpg&originHeight=842&originWidth=990&size=194100&status=done&style=none&width=495)
 Source: [Programmer Humor](https://programmerhumour.tumblr.com/post/634067265640415232/it-works-somehow)
 
