@@ -1,5 +1,5 @@
 # Web 技术周刊
-> 站点持续建设中...近两周站点全新发布
+> 持续建设中... 近两周站点全新发布，倒计时中...
 
 Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技术、产品资讯、设计案例以及精彩发现等内容的周刊，目标是为大家带来更多优质的大前端技术输入。
 - 发刊时间：每周一早上 10 点前
@@ -12,6 +12,13 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 ## 目录
 
 ### 2023
+
+[第 120 期 03/27 The End of Front-End Development](/src/2023/weekly/no120.md)
+- The brief history of artificial intelligence
+- The End of Front-End Development
+- The history and legacy of visual basic
+- Cool frontend arts of local-first: storage, sync, conflicts
+- How OVO determined the right technology stack for their web-based projects
 
 [第 119 期 03/20 After emerging technology buzz fades](src/2023/weekly/no119.md)
 - 跨端架构下客户端侧API维护方案总结
