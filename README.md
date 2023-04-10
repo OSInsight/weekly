@@ -13,6 +13,14 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 
 ### 2023
 
+[第 122 期 04/10 ChatGPT 不算新技术革命，带不来什么新机会](/src/2023/weekly/no122.md)
+- CSS Masking
+- Segment Anything Model (SAM)
+- Writing Javascript without a build system
+- ChatGPT将为低代码带来怎样的“新鲜血液”？
+- 一文详解系分常用UML图及PlantUML代码画图示例
+- Let’s Write a Web Browser from Scratch in Swift!
+
 [第 121 期 04/03 You Are Not Too Old (To Pivot Into AI)](/src/2023/weekly/no121.md)
 - GatesNotes: The Age of AI has begun
 - JavaScript import maps are now supported cross-browser
