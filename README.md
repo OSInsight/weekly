@@ -13,6 +13,14 @@ Web 技术周刊是一款面向泛前端同学汇集技术热闻、大前端技�
 
 ### 2023
 
+[第 121 期 04/03 You Are Not Too Old (To Pivot Into AI)](/src/2023/weekly/no121.md)
+- GatesNotes: The Age of AI has begun
+- JavaScript import maps are now supported cross-browser
+- 走进动力学的柔体世界
+- 重塑低代码开发：人工智能的智慧赋能
+- How to integrate ChatGPT with TinyMCE: a tutorial
+- You Are Not Too Old (To Pivot Into AI)
+
 [第 120 期 03/27 The End of Front-End Development](/src/2023/weekly/no120.md)
 - The brief history of artificial intelligence
 - The End of Front-End Development
